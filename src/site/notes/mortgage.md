@@ -1,0 +1,58 @@
+---
+{"dg-publish":true,"permalink":"/mortgage/","created":"2025-03-13T15:16:08.310-04:00","updated":"2025-03-13T15:16:34.888-04:00"}
+---
+
+
+---
+
+A mortgage is a loan used to purchase real estate or raise funds using existing property as collateral. It is a common financial instrument that allows individuals to buy homes without paying the full price upfront[3](https://en.wikipedia.org/wiki/Mortgage).
+
+## Key Features of Mortgages
+
+1. **Interest Rate**: Can be fixed for the entire loan term or variable, changing at predetermined intervals[3](https://en.wikipedia.org/wiki/Mortgage).
+    
+2. **Loan Term**: Typically ranges from 15 to 30 years, during which the borrower repays the loan[3](https://en.wikipedia.org/wiki/Mortgage).
+    
+3. **Payment Structure**: Usually involves regular payments (often monthly) that include both principal and interest[3](https://en.wikipedia.org/wiki/Mortgage).
+    
+4. **Collateral**: The property itself serves as collateral for the loan[5](https://www.nerdwallet.com/article/mortgages/what-is-a-mortgage).
+    
+
+## Types of Mortgages
+
+## 1. Fixed-Rate Mortgages (FRM)
+
+- Interest rate remains constant throughout the loan term[4](https://myhome.freddiemac.com/blog/homebuying/understanding-common-types-of-mortgage-loans).
+    
+- Provides stable, predictable monthly payments[4](https://myhome.freddiemac.com/blog/homebuying/understanding-common-types-of-mortgage-loans).
+    
+
+## 2. Adjustable-Rate Mortgages (ARM)
+
+- Interest rate can change periodically based on market conditions[4](https://myhome.freddiemac.com/blog/homebuying/understanding-common-types-of-mortgage-loans).
+    
+- Often starts with a lower rate but may increase over time[5](https://www.nerdwallet.com/article/mortgages/what-is-a-mortgage).
+    
+
+## 3. Conventional Loans
+
+- Not backed by government agencies[1](https://www.bankrate.com/mortgages/types-of-mortgages/).
+    
+- Typically require a credit score of at least 620 and a down payment of 3-5%[2](https://www.rocketmortgage.com/learn/types-of-mortgages).
+    
+
+## 4. Government-Backed Loans
+
+- Include [[FHA\|FHA]], [[VA\|VA]], and [[USDA\|USDA]] loans[5](https://www.nerdwallet.com/article/mortgages/what-is-a-mortgage).
+    
+- Often have more lenient credit and down payment requirements[5](https://www.nerdwallet.com/article/mortgages/what-is-a-mortgage).
+    
+
+## 5. Jumbo Loans
+
+- Exceed the conforming loan limits set by government agencies[1](https://www.bankrate.com/mortgages/types-of-mortgages/).
+    
+- Used for high-value properties and typically have stricter qualification criteria[8](https://www.schwab.com/learn/story/types-of-mortgage-loans).
+    
+
+Choosing the right mortgage depends on factors such as your credit score, financial situation, and long-term housing plans[1](https://www.bankrate.com/mortgages/types-of-mortgages/). It's important to carefully consider the terms and conditions of any mortgage before committing to ensure it aligns with your financial goals and capabilities.

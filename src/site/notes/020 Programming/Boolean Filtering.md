@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020-programming/boolean-filtering/","created":"2025-03-06T15:03:43.000-05:00","updated":"2025-03-08T12:58:03.000-05:00"}
+{"dg-publish":true,"permalink":"/020-programming/boolean-filtering/","created":"2025-03-06T15:03:43.196-05:00","updated":"2025-03-08T12:58:03.052-05:00"}
 ---
 
 ---
