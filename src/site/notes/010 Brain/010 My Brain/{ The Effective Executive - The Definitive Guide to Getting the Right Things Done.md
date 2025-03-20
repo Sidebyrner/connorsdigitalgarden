@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/","created":"2021-08-06T11:24:12.000-04:00","updated":"2025-03-13T15:15:06.645-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/","created":"2021-08-06T11:24:12.000-04:00","updated":"2025-03-13T15:15:06.000-04:00"}
 ---
 
 ---

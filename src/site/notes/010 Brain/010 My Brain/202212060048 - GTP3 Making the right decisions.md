@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212060048-gtp-3-making-the-right-decisions/","created":"2022-12-06T00:48:22.000-05:00","updated":"2025-03-13T15:15:29.892-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212060048-gtp-3-making-the-right-decisions/","created":"2022-12-06T00:48:22.000-05:00","updated":"2025-03-13T15:15:29.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301043-the-four-categories-of-technology/","created":"2021-08-01T11:37:54.000-04:00","updated":"2025-03-13T15:13:14.718-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301043-the-four-categories-of-technology/","created":"2021-08-01T11:37:54.000-04:00","updated":"2025-03-13T15:13:14.000-04:00"}
 ---
 
 

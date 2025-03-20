@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-peter-drucker/","created":"2021-09-01T08:49:31.000-04:00","updated":"2025-03-13T15:22:02.677-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-peter-drucker/","created":"2021-09-01T08:49:31.000-04:00","updated":"2025-03-13T15:22:02.000-04:00"}
 ---
 
 ---

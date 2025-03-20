@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202205022104-imposter-syndrome/","created":"2022-05-02T21:04:51.000-04:00","updated":"2025-03-13T15:25:45.953-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202205022104-imposter-syndrome/","created":"2022-05-02T21:04:51.000-04:00","updated":"2025-03-13T15:25:45.000-04:00"}
 ---
 
 

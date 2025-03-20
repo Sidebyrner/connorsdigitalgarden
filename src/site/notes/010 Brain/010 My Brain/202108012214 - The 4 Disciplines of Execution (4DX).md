@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012214-the-4-disciplines-of-execution-4-dx/","created":"2021-08-01T22:14:36.000-04:00","updated":"2025-03-09T22:17:09.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012214-the-4-disciplines-of-execution-4-dx/","created":"2021-08-01T22:14:36.000-04:00","updated":"2025-03-09T22:17:09.441-04:00"}
 ---
 
 
