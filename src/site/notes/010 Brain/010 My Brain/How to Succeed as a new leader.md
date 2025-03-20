@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/how-to-succeed-as-a-new-leader/","created":"2021-08-08T22:01:05.000-04:00","updated":"2025-03-09T22:22:19.561-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/how-to-succeed-as-a-new-leader/","created":"2021-08-08T22:01:05.000-04:00","updated":"2025-03-09T22:22:19.000-04:00"}
 ---
 
 ---

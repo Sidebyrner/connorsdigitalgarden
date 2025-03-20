@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-13T15:12:11.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-13T15:12:11.361-04:00"}
 ---
 
 
@@ -197,7 +197,7 @@ We need an external medium in which to see our ideas from another vantage point,
 
 #### 1. Projects: Short term efforts in you work or life that you're working on now
 - [[010 Brain/010 My Brain/202206222239 - Hollywood model\|202206222239 - Hollywood model]]
-- [[000 Inbox/202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
+- [[202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
 #### 2. Areas: Long-term responsibilities you want to manage over time
 > Mission driven - standard measured
 
@@ -251,7 +251,7 @@ We need an external medium in which to see our ideas from another vantage point,
 - The purpose of a single note or group of notes can and does change over time as your needs and goals change. Every life move through seasons, and you digital notes should move along with them
 	- #comment When notes can't move, they collect dust. When they collect dust, they go unseen, and therefore, unused.
 ### p105 - Completed Projects are the Oxygen of your second brain
-- [[& Tiago Forte\|& Tiago Forte]] worked in [[010 Brain/010 My Brain/202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
+- [[& Tiago Forte\|& Tiago Forte]] worked in [[202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
 	- had 1 hour 1-on-1 sessions to help people move/organize files
 	- Took too long, ended up having people just collect all their old files into an Archive to be used when needed in the future.
 - people didn't need or want an organized computer. They had spent all this money and time moving to a Mac because there was something they wanted to create or achieve.

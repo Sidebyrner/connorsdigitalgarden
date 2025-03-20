@@ -1,10 +1,94 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107191134-rules-of-deep-work/","created":"2021-08-01T11:53:26.000-04:00","updated":"2025-03-20T01:37:47.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/deep-work/","created":"2021-07-30T14:26:26.000-04:00","updated":"2025-03-20T14:42:26.191-04:00"}
 ---
 
 ---
 
-# Rule 1: Work Deeply
+[[Library\|Library]]
+Author: [[010 Brain/010 My Brain/& Cal Newport\|& Cal Newport]]
+Reference: Newport, Cal (2018). Deep Work: rules for focused success in a distracted world. Grand Central Pub.
+Tags: #Productivity #lifeAdvice
+Status: #notesInProgress 
+Date: finished reading:
+rating: 5/5
+ISBN: 978-1-4555-8669-1
+Publish Date: Jan. 2016
+
+---
+
+## Deep Work Depth Philosophies
+-   [[010 Brain/010 My Brain/202108012150 - Monastic Philosophy of Deep Work\|202108012150 - Monastic Philosophy of Deep Work]]
+-   [[010 Brain/010 My Brain/202108012152 - Bimodal Philosophy of Deep Work\|202108012152 - Bimodal Philosophy of Deep Work]]
+-   [[010 Brain/010 My Brain/202108012154 - Rhythmic Philosophy of Deep Work\|202108012154 - Rhythmic Philosophy of Deep Work]]
+-   [[010 Brain/010 My Brain/202108012157 - Journalistic Philosophy of Deep Work\|202108012157 - Journalistic Philosophy of Deep Work]]
+{ #fce461}
+
+
+**Subject:** [[010 Brain/010 My Brain/202107191134 - Rules of Deep Work\|202107191134 - Rules of Deep Work]]
+
+---
+## Deep work is meaningful
+### Deep work helps you produce at an elite level
+#### page 39: Batching work
+{ #27ccdc}
+
+
+- Though [[010 Brain/010 My Brain/& Adam Grant\|& Adam Grant]]'s productivity depends on many factors, there's one idea in particular that seems central to his method: the batching of hard by important intellectual work into long, uninterrupted stretches.
+{ #c9cddd}
+
+	- Within the year, he stacks his teaching into the fall semester, during which he turns all his attention to teaching.
+	- By batching his teaching in the fall, Grant can then turn his attention fully to research in the spring and summer, and tackle this work with less distraction.
+	- Within a semester dedicated to research, he alternates between periods where his door is open to students and  colleagues and periods where he isolates himself to focus completely and without distraction on a single research task. 
+
+#### page 42-44
+##### [[010 Brain/010 My Brain/202108011458 - Attention residue\|202108011458 - Attention residue]]
+> "People experiencing attention residue after switching tasks are likely to demonstrate poor performance on that next task," and the more intense the residue, the worse the performance.
+- To produce at your peak level, you need to work for extended periods with full concentration on a single task free from distraction.
+- **The type of work that optimizes your performance is Deep Work**
+
+#### page 48
+> Unless you have strong evidence that distraction is important for your specific profession, you're best served by giving serious consideration to depth.
+
+**High-Quality Work Produced = (Time spent) x (Intensity of focus)**
+### A Neurological Argument for Depth
+#### page 81
+-	The habit of frequently checking inboxes ensures that shallow concerns remain at the forefront of attention...it ensures that your mind will construct an understanding of your working life that's dominated by stress, irritation, frustration, and triviality. [[010 Brain/010 My Brain/202108011507 - Busyness as Proxy for Productivity\|202108011507 - Busyness as Proxy for Productivity]]
+
+### A Psychological Argument for Depth
+#### page 84
+##### Flow state
+Studies conducted by: 
+[[& Mihaly Csikszentmihalyi\|& Mihaly Csikszentmihalyi]]
+[[& Winifred Gallagher\|& Winifred Gallagher]] - [[{ Rapt}\|{ Rapt}]]
+
+> Ghallager reports, "when you lose focus, your mind tends to fix on what could be wrong with your life instead of what's right."
+Most people assumed that relaxation makes them happy. But the results from Csikszentmihalyi's electronic sampling method (ESM) studies reveal that most people have this wrong
+	> Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured and requires much greater effort to be shaped into something that can be enjoyed.
+	-		[[& Winifred Gallagher\|& Winifred Gallagher]]: The content of what we focus on matters. If we give rapt attention to important things, and therefore also ignore shallow negative things, we'll experience out working life as more important and positive. 
+			**vs.**
+	-		[[& Mihhaly Csikszentmihalyi\|& Mihhaly Csikszentmihalyi]]: The feeling of going deep is _in itself_ very rewarding
+	-		Deep work is an activity well suited to generate a flow state
+	-		The act of going deep orders the consciousness in a way that makes life worthwhile
+	it's even more important that the _individual_ learn how to seek out opportunities for flow
+- To build your working life around the experience of flow produced. by deep work is a proven path to deep satisfaction
+
+### A Philosophical Argument for Depth
+#### page 88
+- The craftsman has stumbled onto something crucial in a post-Enlightenment world: a source of meaning site outside the individual
+- The task of a craftsman "is not to _generate_ meaning, but rather to _cultivate_ in himself the skill of _discerning_ the meanings that are _already there_."
+- Any pursuit — be it physical or cognitive—that supports high levels of skill can also generate a sense of sacredness.
+- Whether you're a writer, marketer, consultant, or lawyer: Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled wheelwright you can generate meaning in the daily efforts of your professional life.
+- You don't need a rarified job; you **need instead a rarified approach to your work**
+
+
+Our current conversation on these topics seems to imply that "the medium is morality" [[010 Brain/010 My Brain/202107301018 - Intellectual Ethic\|202107301018 - Intellectual Ethic]] either you're on board with the Facebook future or see it as our downfall.
+
+-   A commitment to deep work is not a moral stance and it's not a philosophical statement - it is instead a pragmatic recognition that the ability to concentrate is a skill that gets valuable things done
+
+---
+
+## Rules of Deep Work
+### Rule 1: Work Deeply
 
 -   **Deep Work Depth Philosophies**
     -   [Monastic Philosophy of Deep Work]
@@ -40,6 +124,8 @@ Your will is not a manifestation of your character that you can deploy without l
     
     -   Bill Gates' "Think Weeks" at his cabin in the middle of nowhere.
         
+{ #d68821}
+
     -   J.K. Rowling checking into the Balmoral Hotel for $5,000 a night to finish _The Deathly Hallows_
         
     -   Peter Shankman buying a round-trip ticket to Tokyo in business class to write a book.
@@ -65,7 +151,7 @@ Your will is not a manifestation of your character that you can deploy without l
     -   Reason #1: Downtime aids insights
     -   Reason #2: Downtime helps recharge the energy needed to work deeply
 
-# Rule 2: Embrace Boredom
+### Rule 2: Embrace Boredom
 
 The ability to concentrate intensely is a skill that must be trained
 
@@ -110,7 +196,7 @@ The ability to concentrate intensely is a skill that must be trained
     -   Suggestion 2: Structure your deep thinking
     -   A side effect of memory training is an improvement in your general ability to concentrate.
 
-# Rule 3: Quit Social Media
+### Rule 3: Quit Social Media
 
 -   **Main point**: Network tools fragment our time and reduce or ability to concentrate
     
@@ -195,13 +281,13 @@ The ability to concentrate intensely is a skill that must be trained
     -   if you give your mind something meaningful to do through _all_ your waking hours, you'll end the day more fulfilled, and begin to the next one more relaxed
     -   Eliminate the addictive pull of entertainment sites on your time and attention, give your brain a quality alternative.
 
-# [[Deep Work]
+### Rule 4: Drain the Shallows
 
 > Very few people work even 8 hours a day. You're lucky if you get a few good hours in between all the meetings, interruptions, web surfing, office politics, and personal business that permeate the typical workday Fewer official working hours help squeeze the fat out of the typical workweek. Once everyone has less time to get their stuff done, they respect that time even more. People become stingy with their time and that's a good thing. They don't waste it on things that just don't matter. When you have fewer hours you usually spend them more wisely
 
 — Jason Fried, Basecamp co-founder
 
-If you not only eliminate shallow work, but also replace this recovered time with m ore of the deep alternative, not only will the business continue to function; it can become _more_ successful.
+If you not only eliminate shallow work, but also replace this recovered time with more of the deep alternative, not only will the business continue to function; it can become _more_ successful.
 
 -   We should see the goal of Draining the Shallows as **taming** shallow work's footprint in your schedule, not **eliminating** it.
     
@@ -234,9 +320,7 @@ If you not only eliminate shallow work, but also replace this recovered time wit
     -   By picking and sticking with the shallow-to-deep ratio, you can replace this guilt-driven unconditional acceptance with the more healthy habit of tryi g to get the most out of the time you put aside for shallow work - therefore still exposing yourself to many opportunities - but keeping these efforts constrained to a small enough fraction of your time and attention and to enable the deep work that ultimately drives your business forward.
     -   Cause for concern
 -   **Finish your work by 5:30**
-    
     A meta-habit that's simple to adopt but broad in its impact
-    
     -   Fix-schedule productivity, fix the firm goal of not working past a certain time, then work backward to find productivity strategies that allow me to satisfy this declaration.
     -   One of the main techniques for respecting an hour limit was to set drastic quotes on the major sources of _shallow_ endeavors
     -   Ruthlessly cap the shallow while protecting deep efforts
@@ -245,3 +329,11 @@ If you not only eliminate shallow work, but also replace this recovered time wit
         -   The reduction in shallow frees up more energy for the deep alternative
         -   The limits to our time necessitate more careful thinking about our organizational habits
     -   **Become Hard to Reach**
+
+---
+
+
+---
+
+## Related books
+[[010 Brain/010 My Brain/{ The Shallows - What the Internet is doing to our brains\|{ The Shallows - What the Internet is doing to our brains]], Hamlet's Blackberry, The Tyranny of Email, The Distraction Addiction

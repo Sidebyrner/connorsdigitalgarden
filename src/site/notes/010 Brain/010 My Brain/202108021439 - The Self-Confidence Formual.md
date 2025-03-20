@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108021439-the-self-confidence-formual/","created":"2021-08-02T14:39:52.000-04:00","updated":"2025-03-20T01:40:03.984-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108021439-the-self-confidence-formual/","created":"2021-08-02T14:39:52.000-04:00","updated":"2025-03-20T01:40:03.000-04:00"}
 ---
 
 ---

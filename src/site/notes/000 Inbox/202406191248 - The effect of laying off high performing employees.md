@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202406191248-the-effect-of-laying-off-high-performing-employees/","created":"2024-06-19T12:48:38.000-04:00","updated":"2025-03-09T22:36:07.243-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202406191248-the-effect-of-laying-off-high-performing-employees/","created":"2024-06-19T12:48:38.000-04:00","updated":"2025-03-09T22:36:07.000-04:00"}
 ---
 
 ---

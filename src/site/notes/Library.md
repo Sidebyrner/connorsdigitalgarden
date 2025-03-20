@@ -1,5 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.000-04:00","updated":"2025-03-13T15:51:07.000-04:00"}
+{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.530-04:00","updated":"2025-03-20T14:55:55.410-04:00"}
 ---
 
 ---
+Related: [[010 Brain/010 My Brain/Media/Authors\|Authors]]
+
+---
+
+# By Genre
+## Creativity & Branding
+[[010 Brain/010 My Brain/{ Show Your Work\|{ Show Your Work]]
+[[010 Brain/010 My Brain/{ The Brand Gap\|{ The Brand Gap]]
+
+## Futurism
+[[010 Brain/010 My Brain/{ The Signals are Talking\|{ The Signals are Talking]]
+
+## Personal Development
+[[010 Brain/010 My Brain/{  Atomic Habits\|{  Atomic Habits]]
+[[010 Brain/010 My Brain/{ Ego is the Enemy\|{ Ego is the Enemy]]
+[[010 Brain/010 My Brain/{ Designing for Behavior Change\|{ Designing for Behavior Change]]
+[[010 Brain/010 My Brain/{ Give and Take\|{ Give and Take]]
+[[010 Brain/010 My Brain/{ Outliers\|{ Outliers]]
+[[010 Brain/{ So Good They Can't Ignore You\|{ So Good They Can't Ignore You]]
+[[010 Brain/010 My Brain/{ Start with Why\|{ Start with Why]]
+[[010 Brain/010 My Brain/{ The infinite game\|{ The infinite game]]
+[[010 Brain/010 My Brain/{ Think and Grow Rich\|{ Think and Grow Rich]]
+## Organization
+[[010 Brain/010 My Brain/{ Building a Second Brain\|{ Building a Second Brain]]
+[[010 Brain/010 My Brain/{ Getting Things Done\|{ Getting Things Done]]
+[[010 Brain/{ The effective executive\|{ The effective executive]]
+## Fiction
+[[010 Brain/010 My Brain/{ A Farewell to Arms\|{ A Farewell to Arms]]
+## Leadership
+[[010 Brain/010 My Brain/{ Leadership, Strategies, and Tactics\|{ Leadership, Strategies, and Tactics]]
+## History
+[[010 Brain/010 My Brain/{ About Face\|{ About Face]]

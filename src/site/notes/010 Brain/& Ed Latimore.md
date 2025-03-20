@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/and-ed-latimore/","created":"2023-07-01T02:55:11.000-04:00","updated":"2025-03-20T01:19:21.434-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/and-ed-latimore/","created":"2023-07-01T02:55:11.000-04:00","updated":"2025-03-20T01:19:21.000-04:00"}
 ---
 
 ---

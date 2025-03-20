@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-cal-newport/","created":"2021-07-30T14:46:16.000-04:00","updated":"2025-03-20T01:40:53.425-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-cal-newport/","created":"2021-07-30T14:46:16.000-04:00","updated":"2025-03-20T01:40:53.000-04:00"}
 ---
 
 ---

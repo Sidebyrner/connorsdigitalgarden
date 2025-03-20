@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ethan-kross/","created":"2025-03-13T15:05:22.000-04:00","updated":"2025-03-13T15:13:05.000-04:00"}
+{"dg-publish":true,"permalink":"/ethan-kross/","created":"2025-03-13T15:05:22.449-04:00","updated":"2025-03-20T14:59:25.270-04:00"}
 ---
 
 
 ---
 
-[[010 Brain/010 My Brain/Media/authors\|authors]]
+[[010 Brain/010 My Brain/Media/Authors\|Authors]]
 
 Ethan Kross is a renowned psychologist and author, best known for his book [["Chatter: The Voice in Our Head, Why It Matters, and How to Harness It."\|"Chatter: The Voice in Our Head, Why It Matters, and How to Harness It."]] He is a professor of [[psychology\|psychology]] at the University of Michigan and director of the Emotion & Self-Control Laboratory[1](https://michiganross.umich.edu/faculty-research/faculty/ethan-kross)[7](https://www.ethankross.com/about).
 

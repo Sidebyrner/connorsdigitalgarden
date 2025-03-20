@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-brand-gap/","created":"2021-08-11T08:55:23.000-04:00","updated":"2025-03-20T01:46:46.420-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-brand-gap/","created":"2021-08-11T08:55:23.000-04:00","updated":"2025-03-20T01:46:46.000-04:00"}
 ---
 
 ---

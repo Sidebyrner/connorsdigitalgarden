@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/social-media-consumption-in-the-united-states-and-the-status-of-american-new-readership/","created":"2022-12-12T14:59:42.000-05:00","updated":"2025-03-20T01:38:07.802-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/social-media-consumption-in-the-united-states-and-the-status-of-american-new-readership/","created":"2022-12-12T14:59:42.000-05:00","updated":"2025-03-20T01:38:07.000-04:00"}
 ---
 
 ---

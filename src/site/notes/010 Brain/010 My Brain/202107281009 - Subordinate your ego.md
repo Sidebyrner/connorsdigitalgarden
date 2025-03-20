@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107281009-subordinate-your-ego/","created":"2021-08-01T12:41:34.000-04:00","updated":"2025-03-13T15:20:16.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107281009-subordinate-your-ego/","created":"2021-08-01T12:41:34.000-04:00","updated":"2025-03-13T15:20:16.880-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/wickman-traction/","created":"2023-05-20T23:58:26.000-04:00","updated":"2025-03-20T01:10:26.460-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/wickman-traction/","created":"2023-05-20T23:58:26.000-04:00","updated":"2025-03-20T01:10:26.000-04:00"}
 ---
 
 # Traction

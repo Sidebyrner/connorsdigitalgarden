@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012136-rule-2-embrace-boredom/","created":"2021-08-01T21:36:44.000-04:00","updated":"2025-03-20T01:28:00.239-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012136-rule-2-embrace-boredom/","created":"2021-08-01T21:36:44.000-04:00","updated":"2025-03-20T01:28:00.000-04:00"}
 ---
 
 ---
