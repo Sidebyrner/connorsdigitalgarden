@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-21T11:23:14.953-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-21T15:46:53.523-04:00"}
 ---
 
 ---
@@ -54,7 +54,7 @@ Kant snorted, “Out of the crooked timber of humanity, nothing can be made stra
 - Ego is stolen. Confidence is earned. Ego is self-anointed, its swagger is artifice. One is girding yourself, the other gaslighting. It’s the difference between potent and poisonous.
 
 ### PART I: ASPIRE
-- Isocrates began by informing the young man that “no adornment so becomes you as modesty, justice, and self-control; for these are the virtues by which, as all men are agreed, the character of the young is held in restraint.” “Practice self-control,” he said, warning Demonicus not to fall under the sway of “temper, pleasure, and pain.” And “abhor flatterers as you would deceivers; for both, if trusted, injure those who trust them.” He wanted him to “Be affable in your relations with those who approach you, and never haughty; for the pride of the arrogant even slaves can hardly endure” and “Be slow in deliberation, but be prompt to carry out your resolves” and that the “best thing which we have in ourselves is good judgment.” Constantly train your intellect, he told him, “for the greatest thing in the smallest compass is a sound mind in a human body.”
+- [[& Isocrates\|& Isocrates]] began by informing the young man that “no adornment so becomes you as modesty, justice, and self-control; for these are the virtues by which, as all men are agreed, the character of the young is held in restraint.” “Practice self-control,” he said, warning [[& Demonicus\|& Demonicus]] not to fall under the sway of “temper, pleasure, and pain.” And “abhor flatterers as you would deceivers; for both, if trusted, injure those who trust them.” He wanted him to “Be affable in your relations with those who approach you, and never haughty; for the pride of the arrogant even slaves can hardly endure” and “Be slow in deliberation, but be prompt to carry out your resolves” and that the “best thing which we have in ourselves is good judgment.” Constantly train your intellect, he told him, “for the greatest thing in the smallest compass is a sound mind in a human body.”
 - Imagine that—an ambitious person turning down a chance to advance in responsibilities because he actually wanted to be ready for them. Is that really so crazy?
 > This is your show, Sherman told him in a note accompanying a shipment of supplies; call upon me for any assistance I can provide
 	- [[010 Brain/010 My Brain/{ Leadership, Strategies, and Tactics#^76c956\|{ Leadership, Strategies, and Tactics#^76c956]]
@@ -65,7 +65,7 @@ Kant snorted, “Out of the crooked timber of humanity, nothing can be made stra
 - We will learn that though we think big, we must act and live small in order to accomplish what we seek. Because we will be action and education focused, and forgo validation and status, our ambition will not be grandiose but iterative—one foot in front of the other, learning and growing and putting in the time.
 
 ### TALK, TALK, TALK
-> Those who know do not speak. Those who speak do not know. —LAO TZU
+> Those who know do not speak. Those who speak do not know. — [[& Lao Tzu\|& Lao Tzu]]
 - Almost universally, the kind of performance we give on social media is positive. It’s more “Let me tell you how well things are going. Look how great I am.” It’s rarely the truth: “I’m scared. I’m struggling. I don’t know.” At the beginning of any path, we’re excited and nervous. So we seek to comfort ourselves externally instead of inwardly. There’s a weak side to each of us, that—like a trade union—isn’t exactly malicious but at the end of the day still wants get as much public credit and attention as it can for doing the least. That side we call ego.
 	- Tik tok is authentic 
 - She was too busy “spending a lot of time on the Internet,” that’s why. In fact, I can’t really remember anything else I did in 2010. I tumbld, I tweeted, and I scrolled. This didn’t earn me any money but it felt like work. I justified my habits to myself in various ways. I was building my brand. Blogging was a creative act—even “curating” by reblogging someone else’s post was a creative act, if you squinted. It was also the only creative thing I was doing.

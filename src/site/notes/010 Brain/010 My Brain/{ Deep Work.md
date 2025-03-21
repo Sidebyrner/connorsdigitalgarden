@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/deep-work/","created":"2021-07-30T14:26:26.000-04:00","updated":"2025-03-20T14:42:26.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/deep-work/","created":"2021-07-30T14:26:26.000-04:00","updated":"2025-03-21T15:54:23.934-04:00"}
 ---
 
 ---
@@ -337,3 +337,15 @@ If you not only eliminate shallow work, but also replace this recovered time wit
 
 ## Related books
 [[010 Brain/010 My Brain/{ The Shallows - What the Internet is doing to our brains\|{ The Shallows - What the Internet is doing to our brains]], Hamlet's Blackberry, The Tyranny of Email, The Distraction Addiction
+
+---
+
+Tags: #Productivity #lifeAdvice
+Title: [[010 Brain/010 My Brain/{ Deep Work\|{ Deep Work]]
+Author: [[010 Brain/010 My Brain/& Cal Newport\|& Cal Newport]]
+Reference: Newport, Cal (2018). Deep Work: rules for focused success in a distracted world. Grand Central Pub.
+ISBN: 978-1-4555-8669-1
+Publish Date: Jan. 2016
+
+---
+

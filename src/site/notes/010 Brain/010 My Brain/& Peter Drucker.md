@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-peter-drucker/","created":"2021-09-01T08:49:31.000-04:00","updated":"2025-03-13T15:22:02.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-peter-drucker/","created":"2021-09-01T08:49:31.000-04:00","updated":"2025-03-21T15:56:47.473-04:00"}
 ---
 
 ---
@@ -8,7 +8,7 @@ Peter Ferdinand Drucker (November 19, 1909 – November 11, 2005) was an Austria
 
 ## Career and Contributions
 
-Drucker's career as a business thinker took off in 1942 when he gained access to General Motors, conducting a comprehensive analysis of the corporation[1](https://en.wikipedia.org/wiki/Peter_Drucker)[5](https://www.managers-net.com/Biography/drucker.html). His resulting book, "Concept of the Corporation," popularized GM's multidivisional structure and led to numerous consulting engagements and additional publications[1](https://en.wikipedia.org/wiki/Peter_Drucker).
+Drucker's career as a business thinker took off in 1942 when he gained access to [[General Motors\|General Motors]], conducting a comprehensive analysis of the corporation[1](https://en.wikipedia.org/wiki/Peter_Drucker)[5](https://www.managers-net.com/Biography/drucker.html). His resulting book, "Concept of the Corporation," popularized GM's multidivisional structure and led to numerous consulting engagements and additional publications[1](https://en.wikipedia.org/wiki/Peter_Drucker).
 
 Key contributions of Drucker include:
 

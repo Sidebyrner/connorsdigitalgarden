@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107191134-rules-of-deep-work/","created":"2021-08-01T11:53:26.000-04:00","updated":"2025-03-20T01:37:47.162-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107191134-rules-of-deep-work/","created":"2021-08-01T11:53:26.000-04:00","updated":"2025-03-21T15:52:55.392-04:00"}
 ---
 
 ---
@@ -28,7 +28,7 @@ Your will is not a manifestation of your character that you can deploy without l
     > Waiting for inspiration to strike is a terrible, terrible plan. In fact, perhaps the single best piece of advice I can offer to anyone trying to do creative work is to **ignore inspiration**  
     — Mason Currey
     
-	- Charles Darwin had a strict structure for his working life during the period when he was perfecting _On the Origin of Species_. He would ride promptly at 7 am to take a short walk. He would eat breakfast alone and retire to his study from 8 until 9:30. The next hour was dedicated to reading his letters from the day before, after which he would return to his study from 10:30 until Noon. After this session, he would mull over challenging ideas while walking a prescribed route on his property. He would walk until satisfied with his thinking, then **declare his work day done".** (p. 118)
+	- [[& Charles Darwin\|& Charles Darwin]] had a strict structure for his working life during the period when he was perfecting _On the Origin of Species_. He would ride promptly at 7 am to take a short walk. He would eat breakfast alone and retire to his study from 8 until 9:30. The next hour was dedicated to reading his letters from the day before, after which he would return to his study from 10:30 until Noon. After this session, he would mull over challenging ideas while walking a prescribed route on his property. He would walk until satisfied with his thinking, then **declare his work day done".** (p. 118)
     
 
 -   **Make Grand Gestures**
@@ -38,9 +38,9 @@ Your will is not a manifestation of your character that you can deploy without l
     
     ### Examples
     
-    -   Bill Gates' "Think Weeks" at his cabin in the middle of nowhere.
+    -   [[& Bill Gates\|& Bill Gates]]' "Think Weeks" at his cabin in the middle of nowhere.
         
-    -   J.K. Rowling checking into the Balmoral Hotel for $5,000 a night to finish _The Deathly Hallows_
+    -   [[& J.K. Rowling\|& J.K. Rowling]] checking into the Balmoral Hotel for $5,000 a night to finish _The Deathly Hallows_
         
     -   Peter Shankman buying a round-trip ticket to Tokyo in business class to write a book.
         
@@ -91,7 +91,7 @@ The ability to concentrate intensely is a skill that must be trained
     -   1.  Jobs that requires a lot of time online can still use this strategy
     -   2.  Regardless of how you schedule your _Internet blocks_, you must keep the time outside these blocks absolutely free from Internet Use.
     -   3.  Scheduling Internet use at home as well as at work can further improve your concentration training
--   Work like Teddy Roosevelt
+-   Work like [[& Teddy Roosevelt\|& Teddy Roosevelt]]
     
     -   Roosevelt would begin his scheduling by considering the 8 hours from eight a.m. to four thirty p.m. He would then remove the time spent in recitation and classes , this athletic training, and lunch. The fragments left were then considered time dedicated exclusively to studying.
     
@@ -113,6 +113,7 @@ The ability to concentrate intensely is a skill that must be trained
 # Rule 3: Quit Social Media
 
 -   **Main point**: Network tools fragment our time and reduce or ability to concentrate
+	- [[010 Brain/010 My Brain/{ The Shallows - What the Internet is doing to our brains\|{ The Shallows - What the Internet is doing to our brains]]
     
 -   **Second point:** The impotence (helplessness) with which knowledge workers currently discuss the problem of network tools and attention
     
