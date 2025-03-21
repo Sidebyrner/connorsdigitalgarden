@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.000-04:00","updated":"2025-03-21T11:26:01.182-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.000-04:00","updated":"2025-03-21T16:38:15.368-04:00"}
 ---
 
 ---
@@ -23,7 +23,7 @@ The acquisition aligned with Apple’s push into mobile innovation under [[& Sco
 
 With Siri’s founders gone, Apple tapped [[& Bill Stasior\|& Bill Stasior]] in 2012 to lead the assistant’s development. Stasior, a search technology veteran from [['Amazon'\|'Amazon']]’s A9 unit and [['AltaVista'\|'AltaVista']], brought a data-driven approach to the role of Vice President of Siri. Reporting initially to Forstall (until his 2012 exit), Stasior oversaw Siri’s expansion across Apple’s devices—iPhone, iPad, and eventually Mac—managing a team that swelled to over 11,000.
 
-Under Stasior, Siri gained features like sports updates and restaurant bookings, but it struggled to keep pace with [[Google Assistant\|Google Assistant]] and [[Amazon\|Amazon]]’s Alexa, especially in conversational depth and smart home integration. Reports from the period cite internal challenges: a focus on search over AI innovation, team infighting, and Apple’s privacy-first ethos limiting cloud-based advancements. By 2018, Siri’s lag was palpable—internal studies showed it trailing competitors in accuracy and capability. In February 2019, Stasior stepped down as Siri chief amid a broader AI restructuring, leaving Apple entirely by May 2019 for a role at [['Microsoft\|'Microsoft]] as Corporate Vice President of Technology.
+Under Stasior, Siri gained features like sports updates and restaurant bookings, but it struggled to keep pace with [[Google Assistant\|Google Assistant]] and [[Amazon\|Amazon]]’s Alexa, especially in conversational depth and smart home integration. Reports from the period cite internal challenges: a focus on search over AI innovation, team infighting, and Apple’s privacy-first ethos limiting cloud-based advancements. By 2018, Siri’s lag was palpable—internal studies showed it trailing competitors in accuracy and capability. In February 2019, Stasior stepped down as Siri chief amid a broader AI restructuring, leaving Apple entirely by May 2019 for a role at [[Microsoft\|Microsoft]] as Corporate Vice President of Technology.
 
   
 
@@ -31,7 +31,7 @@ Under Stasior, Siri gained features like sports updates and restaurant bookings,
 
   
 
-Apple’s AI ambitions took a decisive turn in April 2018 with the hiring of [[& John Giannandrea\|& John Giannandrea]], a former [[20220708 - Google\|20220708 - Google]] AI and Search leader. Initially joining to bolster machine learning across products, Giannandrea was elevated to Senior Vice President of Machine Learning and AI Strategy by December 2018, replacing Stasior as Siri’s overseer and reporting directly to CEO [[&Tim Cook\|&Tim Cook]]. His arrival signaled a unified AI vision, merging Siri with broader machine learning efforts under one roof.
+Apple’s AI ambitions took a decisive turn in April 2018 with the hiring of [[& John Giannandrea\|& John Giannandrea]], a former [[20220708 - Google\|20220708 - Google]] AI and Search leader. Initially joining to bolster machine learning across products, Giannandrea was elevated to Senior Vice President of Machine Learning and AI Strategy by December 2018, replacing Stasior as Siri’s overseer and reporting directly to CEO [[& Tim Cook\|& Tim Cook]]. His arrival signaled a unified AI vision, merging Siri with broader machine learning efforts under one roof.
 
   
 
@@ -65,8 +65,19 @@ Meanwhile, Siri’s creators pursued new ventures. After leaving Apple in 2012, 
 
   
 
-As of March 3, 2025, Apple’s AI narrative is one of catch-up. Siri’s struggles—low adoption, inaccurate features, and a delayed LLM reboot—contrast with competitors’ strides. Reports hint at acquisition interest in [['Sesame AI\|'Sesame AI]], an emerging player hyped on X as a potential Siri savior, though its fit with Apple’s ecosystem remains speculative. Leadership under Giannandrea and Vorrath faces a pivotal test: can they close the gap with [[OpenAI\|OpenAI]] and [[20220708 - Google\|20220708 - Google]], or will Apple’s privacy-first approach leave it perpetually behind?
+As of March 3, 2025, Apple’s AI narrative is one of catch-up. Siri’s struggles—low adoption, inaccurate features, and a delayed LLM reboot—contrast with competitors’ strides. Reports hint at acquisition interest in [[Sesame AI\|Sesame AI]], an emerging player hyped on X as a potential Siri savior, though its fit with Apple’s ecosystem remains speculative. Leadership under Giannandrea and Vorrath faces a pivotal test: can they close the gap with [[OpenAI\|OpenAI]] and [[20220708 - Google\|20220708 - Google]], or will Apple’s privacy-first approach leave it perpetually behind?
 
   
 
 The timeline reveals a pattern—innovative sparks dulled by execution hurdles, with leaders like Stasior absorbing criticism and others like Giannandrea and Vorrath tasked with redemption. Cheyer and Kittlaus’s post-Apple successes underscore what might have been, while Apple’s internal talent bets on self-reliance. Whether through acquisition or in-house grit, the next chapter of Apple’s AI story hinges on turning ambition into results—a challenge as old as Siri itself.
+
+
+----
+
+## 202503211610
+
+Apple, the tech giant, has initiated a significant management shake-up in its AI division to revitalize its struggling virtual assistant, [[Siri\|Siri]]. 
+
+The move comes as [[Tim Cook\|Tim Cook]], Apple’s CEO, has reportedly lost confidence in [[John Giannandrea\|John Giannandrea]]’s ability to lead the AI product development effectively. As a result, [[Mike Rockwell\|Mike Rockwell]], the vice president of the [[Vision Products Group\|Vision Products Group]] and creator of [[Apple Vision Pro\|Apple Vision Pro]], has been tasked with overseeing [[Siri\|Siri]], reporting directly to software chief [[Craig Federighi\|Craig Federighi]]. This change removes [[Siri\|Siri]] from [[Giannandrea\|Giannandrea]]’s purview, although he will continue to manage research and other AI-related technologies.
+
+The decision follows a series of challenges faced by Apple’s AI efforts, particularly in comparison to competitors like [[Amazon\|Amazon]]’s [[Alexa\|Alexa]]. Recent issues with [[Siri\|Siri]]’s performance have been highlighted, with concerns that a modernized version may not be available until the release of [[iOS 20\|iOS 20]] in 2027. The shake-up also coincides with internal criticism of [[Siri\|Siri]]’s capabilities, with executives like [[& Robby Walker\|& Robby Walker]] describing recent AI delays as “ugly and embarrassing.” [[Rockwell\|Rockwell]] has been advocating for a more personalized approach to revamp [[Siri\|Siri]], aiming to improve its functionality and competitiveness in the market.

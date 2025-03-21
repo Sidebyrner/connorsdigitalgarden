@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/media/authors/","created":"2021-08-01T12:47:45.000-04:00","updated":"2025-03-21T15:54:26.620-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/media/authors/","created":"2021-08-01T12:47:45.000-04:00","updated":"2025-03-21T16:10:02.819-04:00"}
 ---
 
 ---
@@ -20,6 +20,6 @@
 [[010 Brain/010 My Brain/& Peter Drucker\|& Peter Drucker]]
 [[010 Brain/010 My Brain/& Ray Dalio\|& Ray Dalio]]
 [[010 Brain/& Tim Ferriss\|& Tim Ferriss]]
-[[&Lao Tzu
+[[& Lao Tzu\|& Lao Tzu]]
 [[& J.K. Rowling\|& J.K. Rowling]]
 [[& Mihaly Csikszentmihalyi\|& Mihaly Csikszentmihalyi]]

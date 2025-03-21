@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-earnest-hemingway/","created":"2022-07-13T23:12:54.000-04:00","updated":"2025-03-20T15:04:45.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-earnest-hemingway/","created":"2022-07-13T23:12:54.000-04:00","updated":"2025-03-21T16:29:36.992-04:00"}
 ---
 
 ---
@@ -7,8 +7,8 @@
 - [[010 Brain/010 My Brain/202207091116 - The Hemingway Bridge\|202207091116 - The Hemingway Bridge]]
 - _[[{ In Our Time\|{ In Our Time]]_ (1925): A collection of short stories reflecting his early style.
 - _[[{ Men Without Women\|{ Men Without Women]]_ (1927): Another influential short-story collection.
-- _[[{ For Whom the Bell Tolls\|{ For Whom the Bell Tolls]]_ (1940): Set during the Spanish Civil War, this novel showcased his ability to weave historical events into compelling narratives.
-- _[[{ The Old Man and the Sea\|{ The Old Man and the Sea]]_ (1952): A novella that won the Pulitzer Prize and further solidified his literary legacy[1](https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/)[2](https://www.britannica.com/summary/Ernest-Hemingway)[4](https://en.wikipedia.org/wiki/Ernest_Hemingway).
+- _[[{ For Whom the Bell Tolls\|{ For Whom the Bell Tolls]]_ (1940): Set during the [[Spanish Civil War\|Spanish Civil War]], this novel showcased his ability to weave historical events into compelling narratives.
+- _[[{ The Old Man and the Sea\|{ The Old Man and the Sea]]_ (1952): A novella that won the [[Pulitzer Prize\|Pulitzer Prize]]and further solidified his literary legacy[1](https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/)[2](https://www.britannica.com/summary/Ernest-Hemingway)[4](https://en.wikipedia.org/wiki/Ernest_Hemingway).
 
 ---
 ## Bio
@@ -20,7 +20,7 @@ Hemingway's early years were marked by a love for the outdoors, spending summers
 
 ## Literary Career
 
-Hemingway became part of the expatriate community in Paris, known as the [[Lost Generation\|Lost Generation]], alongside writers like F. Scott Fitzgerald and Gertrude Stein. His first major novel, _[[The Sun Also Rises\|The Sun Also Rises]]_ (1926), introduced him to literary fame, followed by _[[010 Brain/010 My Brain/{ A Farewell to Arms\|{ A Farewell to Arms]]_ (1929), which cemented his reputation as a major writer[1](https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/)[6](https://www.britannica.com/biography/Ernest-Hemingway).
+Hemingway became part of the expatriate community in Paris, known as the [[Lost Generation\|Lost Generation]], alongside writers like [[& F. Scott Fitzgerald\|& F. Scott Fitzgerald]] and [[& Gertrude Stein\|& Gertrude Stein]]. His first major novel, _[[The Sun Also Rises\|The Sun Also Rises]]_ (1926), introduced him to literary fame, followed by _[[010 Brain/010 My Brain/{ A Farewell to Arms\|{ A Farewell to Arms]]_ (1929), which cemented his reputation as a major writer[1](https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/)[6](https://www.britannica.com/biography/Ernest-Hemingway).
 
 
     
@@ -35,7 +35,7 @@ Hemingway was awarded the [[Nobel Prize in Literature\|Nobel Prize in Literature
 
 ## Personal Life
 
-Hemingway lived a life marked by adventure and turmoil, including his experiences in World War I and the Spanish Civil War. He resided in various places, including Key West, Florida, and Cuba, before moving to Idaho, where he passed away in 1961[4](https://en.wikipedia.org/wiki/Ernest_Hemingway)[5](https://www.potterswaxmuseum.com/arts-and-culture/ernest-hemingway/).
+Hemingway lived a life marked by adventure and turmoil, including his experiences in World War I and the Spanish Civil War. He resided in various places, including Key West, Florida, and Cuba, before moving to Idaho, where he passed away in 1961 [4](https://en.wikipedia.org/wiki/Ernest_Hemingway)[5](https://www.potterswaxmuseum.com/arts-and-culture/ernest-hemingway/).
 ### Citations:
 
 1. [https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/](https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/)

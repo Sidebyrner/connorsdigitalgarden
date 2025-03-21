@@ -7,11 +7,17 @@
 Empire, Metasploit, and Cobalt Strike are powerful post-exploitation frameworks that are commonly used by both legitimate security professionals and malicious actors in cyberattacks, including ransomware campaigns. Here's an overview of their relationship to malware and ransomware:
 
 1. 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/what-is-a-cobalt-strike/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-Cobalt Strike is a commercial penetration testing tool that has become increasingly popular among cybercriminals and ransomware groups[2][4]. It provides a range of capabilities for post-exploitation activities, including:
+
+---
+[[CyberSecurity\|CyberSecurity]]
+
+---
+
+Cobalt Strike is a commercial [[000 Inbox/202503211620 - Penetration Testing\|202503211620 - Penetration Testing]] tool that has become increasingly popular among cybercriminals and [[000 Inbox/202503211621 - Ransomware\|202503211621 - Ransomware]] groups[2][4]. It provides a range of capabilities for post-exploitation activities, including:
 
 - Beacon payload for remote access and control[2]
 - Malleable C2 module for customizing payloads to evade detection[2]
