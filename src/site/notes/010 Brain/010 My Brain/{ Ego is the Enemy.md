@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-20T01:52:58.493-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-21T11:23:14.953-04:00"}
 ---
 
 ---
@@ -228,7 +228,7 @@ The other “choices” wash away, as they aren’t really choices at all. They�
 - His other famous piece of advice, “Keep your identity small,” fits well here
 - Make it about the work and the principles behind it—not about a glorious vision that makes a good headline.
 - A great destiny is great slavery. — [[& Seneca\|& Seneca]]
-	- Certainly Google’s alienation from its own roots (confusing vision and potential with scientific and technological prowess) will cause it to stumble soon enough — [[010 Brain/010 My Brain/{ Start with Why\|{ Start with Why]]
+	- Certainly [[20220708 - Google\|20220708 - Google]]’s alienation from its own roots (confusing vision and potential with scientific and technological prowess) will cause it to stumble soon enough — [[010 Brain/010 My Brain/{ Start with Why\|{ Start with Why]]
 ### WHAT’S IMPORTANT TO YOU?
 - A genuinely good and loyal individual, he was not cut out for the dirty world of Washington, and it made quick work of him. He left office a maligned and controversial figure after two exhausting terms, almost surprised by how poorly it had gone.
 	- #comment Wow

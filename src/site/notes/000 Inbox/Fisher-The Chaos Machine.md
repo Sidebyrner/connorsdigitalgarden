@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-03-20T16:08:37.000-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-03-21T11:26:21.601-04:00"}
 ---
 
 ---
@@ -428,7 +428,7 @@ With machine learning, engineers could do something better than write a program 
 
 
 ---
-One of Google’s most cherished freedoms, inherited from Silicon Valley’s midcentury founders and borrowed outright from Stanford’s research programs across town, is the 80/20 rule. Employees owe 80 percent of their time to formal assignments but can spend the other 20 pursuing side projects. Chaslot and his team leader, who shared his concerns, dedicated their 20 to developing a new algorithm that might balance profit goals with public well-being. — location: [1704](kindle://book?action=open&asin=B09FJPPQQ3&location=1704)
+One of [[20220708 - Google\|20220708 - Google]]’s most cherished freedoms, inherited from Silicon Valley’s midcentury founders and borrowed outright from Stanford’s research programs across town, is the 80/20 rule. Employees owe 80 percent of their time to formal assignments but can spend the other 20 pursuing side projects. Chaslot and his team leader, who shared his concerns, dedicated their 20 to developing a new algorithm that might balance profit goals with public well-being. — location: [1704](kindle://book?action=open&asin=B09FJPPQQ3&location=1704)
 { #ref-60026}
 
 

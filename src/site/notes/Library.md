@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.000-04:00","updated":"2025-03-20T14:55:55.000-04:00"}
+{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.000-04:00","updated":"2025-03-21T11:31:10.471-04:00"}
 ---
 
 ---
@@ -28,7 +28,7 @@ Related: [[010 Brain/010 My Brain/Media/Authors\|Authors]]
 ## Organization
 [[010 Brain/010 My Brain/{ Building a Second Brain\|{ Building a Second Brain]]
 [[010 Brain/010 My Brain/{ Getting Things Done\|{ Getting Things Done]]
-[[010 Brain/{ The effective executive\|{ The effective executive]]
+[[010 Brain/010 My Brain/{ The Effective Executive - The Definitive Guide to Getting the Right Things Done\|{ The Effective Executive - The Definitive Guide to Getting the Right Things Done]]
 ## Fiction
 [[010 Brain/010 My Brain/{ A Farewell to Arms\|{ A Farewell to Arms]]
 ## Leadership

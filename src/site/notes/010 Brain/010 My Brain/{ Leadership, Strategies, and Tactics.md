@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-13T15:15:19.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-21T11:21:15.201-04:00"}
 ---
 
 
@@ -141,7 +141,7 @@ Review Date:
 - Remember that anything you might say at the moment is based on incomplete and likely inaccurate information. Allow for the situation to unfold and for a more solid picture to appear before you speak up.
 - If you are told that a project is significantly off track, don't start yelling and screaming. Instead, calmly determine what is causing the problem and what support is needed to get the project back on track. 
 **There is no reason to overreact:** So take a step back, detach from your emotional reason, find out what is really going on, and then make calm, logical decisions based on the reality of the situation.
-	- [[010 Brain/040 Synthesis/041 Questions/What is a logical decision?\|What is a logical decision?]]
+	- [[010 Brain/040 Synthesis/041 Questions/What is a logical decision?\|010 Brain/040 Synthesis/041 Questions/What is a logical decision?]]
 
 #### p116 Don't Care
 - To actually win strategically in the long game, you have to not care.

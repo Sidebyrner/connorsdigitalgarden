@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/020-programming/python-pivot-tables/","created":"2025-03-06T14:43:23.000-05:00","updated":"2025-03-08T13:19:23.000-05:00"}
+{"dg-publish":true,"permalink":"/020-programming/python-pivot-tables/","created":"2025-03-06T14:43:23.000-05:00","updated":"2025-03-21T11:27:03.034-04:00"}
 ---
 
 ---
+[[LLM Work\|LLM Work]]
+[[020 Programming/Python\|Python]]
 
 1. **Pivot Table Syntax**: Pivot tables in pandas require the entire DataFrame as the starting point, not just a single column. The basic syntax is `df.pivot_table()`.
 2. **Parameters Structure**:

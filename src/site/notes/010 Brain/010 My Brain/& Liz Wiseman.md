@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-liz-wiseman/","created":"2022-03-18T21:11:12.000-04:00","updated":"2025-03-20T14:58:16.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-liz-wiseman/","created":"2022-03-18T21:11:12.000-04:00","updated":"2025-03-21T11:23:53.478-04:00"}
 ---
 
 ---
-Liz Wiseman is a prominent [[leadership expert\|leadership expert]], [[author\|author]], and [[executive advisor\|executive advisor]], widely recognized for her innovative contributions to the field of [[management\|management]] and leadership development. She is the CEO of [[The Wiseman Group\|The Wiseman Group]], a leadership research and development firm based in Silicon Valley, California. Wiseman has worked with major organizations such as [[Apple\|Apple]], [[Google\|Google]], [[Microsoft\|Microsoft]], [[Nike\|Nike]], [[Salesforce\|Salesforce]], and [[Tesla\|Tesla]], helping executives enhance their leadership capabilities.
+Liz Wiseman is a prominent [[leadership expert\|leadership expert]], [[author\|author]], and [[executive advisor\|executive advisor]], widely recognized for her innovative contributions to the field of [[management\|management]] and leadership development. She is the CEO of [[The Wiseman Group\|The Wiseman Group]], a leadership research and development firm based in Silicon Valley, California. Wiseman has worked with major organizations such as [[Apple\|Apple]], [[20220708 - Google\|20220708 - Google]], [[Microsoft\|Microsoft]], [[Nike\|Nike]], [[Salesforce\|Salesforce]], and [[Tesla\|Tesla]], helping executives enhance their leadership capabilities.
 
 ### Career at [[Oracle Corporation\|Oracle Corporation]]
 Wiseman spent 17 years at [[Oracle Corporation\|Oracle Corporation]], where she held key roles including:
