@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/think-and-grow-rich/","created":"2021-08-02T12:41:58.000-04:00","updated":"2025-03-20T01:39:56.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/think-and-grow-rich/","created":"2021-08-02T12:41:58.000-04:00","updated":"2025-03-20T01:39:56.324-04:00"}
 ---
 
 ---

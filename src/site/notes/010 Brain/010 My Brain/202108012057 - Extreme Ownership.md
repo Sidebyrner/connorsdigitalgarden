@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012057-extreme-ownership/","created":"2021-08-01T20:57:17.000-04:00","updated":"2025-03-20T00:53:04.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012057-extreme-ownership/","created":"2021-08-01T20:57:17.000-04:00","updated":"2025-03-20T00:53:04.007-04:00"}
 ---
 
 ---

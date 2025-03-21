@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012157-journalistic-philosophy-of-deep-work/","created":"2021-08-01T21:57:03.000-04:00","updated":"2025-03-20T01:37:15.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012157-journalistic-philosophy-of-deep-work/","created":"2021-08-01T21:57:03.000-04:00","updated":"2025-03-20T01:37:15.641-04:00"}
 ---
 
 ---

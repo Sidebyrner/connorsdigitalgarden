@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.183-04:00","updated":"2025-03-20T16:21:51.325-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.000-04:00","updated":"2025-03-20T16:21:51.000-04:00"}
 ---
 
 ---

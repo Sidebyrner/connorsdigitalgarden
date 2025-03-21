@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/202211281558-bollinger-bands/","created":"2022-11-28T15:58:47.000-05:00","updated":"2025-03-20T01:41:19.000-04:00"}
+{"dg-publish":true,"permalink":"/202211281558-bollinger-bands/","created":"2022-11-28T15:58:47.000-05:00","updated":"2025-03-20T01:41:19.290-04:00"}
 ---
 
 ---

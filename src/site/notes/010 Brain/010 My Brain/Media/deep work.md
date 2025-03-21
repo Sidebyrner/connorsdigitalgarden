@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/media/deep-work/","created":"2021-08-01T12:01:57.000-04:00","updated":"2025-03-20T01:45:21.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/media/deep-work/","created":"2021-08-01T12:01:57.000-04:00","updated":"2025-03-20T01:45:21.675-04:00"}
 ---
 
 ---

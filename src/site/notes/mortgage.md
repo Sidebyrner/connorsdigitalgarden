@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mortgage/","created":"2025-03-13T15:16:08.310-04:00","updated":"2025-03-13T15:16:34.888-04:00"}
+{"dg-publish":true,"permalink":"/mortgage/","created":"2025-03-13T15:16:08.000-04:00","updated":"2025-03-13T15:16:34.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301424-shutdown-ritual/","created":"2021-07-30T14:24:36.000-04:00","updated":"2025-03-20T01:11:18.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301424-shutdown-ritual/","created":"2021-07-30T14:24:36.000-04:00","updated":"2025-03-20T01:11:18.912-04:00"}
 ---
 
 ---

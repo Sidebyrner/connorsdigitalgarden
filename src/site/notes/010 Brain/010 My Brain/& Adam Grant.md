@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-adam-grant/","created":"2021-12-15T12:12:58.000-05:00","updated":"2025-03-20T01:52:44.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-adam-grant/","created":"2021-12-15T12:12:58.000-05:00","updated":"2025-03-20T01:52:44.922-04:00"}
 ---
 
 ---

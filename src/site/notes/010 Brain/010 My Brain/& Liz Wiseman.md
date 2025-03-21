@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-liz-wiseman/","created":"2022-03-18T21:11:12.000-04:00","updated":"2025-03-20T14:58:16.607-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-liz-wiseman/","created":"2022-03-18T21:11:12.000-04:00","updated":"2025-03-20T14:58:16.000-04:00"}
 ---
 
 ---

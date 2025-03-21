@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207090957-curator-s-perspective/","created":"2022-07-09T09:57:16.000-04:00","updated":"2025-03-13T10:11:29.643-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207090957-curator-s-perspective/","created":"2022-07-09T09:57:16.000-04:00","updated":"2025-03-13T10:11:29.000-04:00"}
 ---
 
 

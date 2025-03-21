@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107280959-rule-4-drain-the-shallows/","created":"2021-08-01T12:58:10.000-04:00","updated":"2025-03-20T01:51:19.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107280959-rule-4-drain-the-shallows/","created":"2021-08-01T12:58:10.000-04:00","updated":"2025-03-20T01:51:19.386-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301353-technological-determinism-vs-instrumentalists/","created":"2021-07-30T13:53:10.000-04:00","updated":"2025-03-20T14:34:00.159-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301353-technological-determinism-vs-instrumentalists/","created":"2021-07-30T13:53:10.000-04:00","updated":"2025-03-20T14:34:00.000-04:00"}
 ---
 
 ---

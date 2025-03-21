@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107060957-the-ready-state-of-the-martial-artist/","created":"2021-08-01T12:32:22.000-04:00","updated":"2025-03-20T01:53:06.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107060957-the-ready-state-of-the-martial-artist/","created":"2021-08-01T12:32:22.000-04:00","updated":"2025-03-20T01:53:06.699-04:00"}
 ---
 
 ---

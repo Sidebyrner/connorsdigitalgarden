@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/050-web-notes/introduction-to-utilitarianism/","created":"2022-07-16T11:53:27.000-04:00","updated":"2025-03-20T01:36:15.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/050-web-notes/introduction-to-utilitarianism/","created":"2022-07-16T11:53:27.000-04:00","updated":"2025-03-20T01:36:15.085-04:00"}
 ---
 
 ---

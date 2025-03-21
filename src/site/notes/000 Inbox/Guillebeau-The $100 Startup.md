@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/guillebeau-the-100-startup/","created":"2022-09-18T13:51:28.000-04:00","updated":"2025-03-13T15:17:08.013-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/guillebeau-the-100-startup/","created":"2022-09-18T13:51:28.000-04:00","updated":"2025-03-13T15:17:08.000-04:00"}
 ---
 
 ---

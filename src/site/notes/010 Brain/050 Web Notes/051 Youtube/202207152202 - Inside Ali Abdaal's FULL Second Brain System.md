@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/050-web-notes/051-youtube/202207152202-inside-ali-abdaal-s-full-second-brain-system/","created":"2022-07-15T22:02:31.000-04:00","updated":"2025-03-20T01:38:00.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/050-web-notes/051-youtube/202207152202-inside-ali-abdaal-s-full-second-brain-system/","created":"2022-07-15T22:02:31.000-04:00","updated":"2025-03-20T01:38:00.389-04:00"}
 ---
 
 ---

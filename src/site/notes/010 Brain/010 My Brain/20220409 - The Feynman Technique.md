@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/20220409-the-feynman-technique/","created":"2022-04-09T14:01:10.000-04:00","updated":"2025-03-20T01:38:16.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/20220409-the-feynman-technique/","created":"2022-04-09T14:01:10.000-04:00","updated":"2025-03-20T01:38:16.351-04:00"}
 ---
 
 ---

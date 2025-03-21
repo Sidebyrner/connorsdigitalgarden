@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012054-prioritize-and-execute/","created":"2021-08-01T20:54:46.000-04:00","updated":"2025-03-09T22:18:10.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012054-prioritize-and-execute/","created":"2021-08-01T20:54:46.000-04:00","updated":"2025-03-09T22:18:10.286-04:00"}
 ---
 
 
