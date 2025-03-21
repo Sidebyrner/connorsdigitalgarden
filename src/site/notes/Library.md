@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.000-04:00","updated":"2025-03-21T15:39:58.741-04:00"}
+{"dg-publish":true,"permalink":"/library/","created":"2025-03-13T15:17:10.000-04:00","updated":"2025-03-21T17:29:03.979-04:00"}
 ---
 
 ---
@@ -14,6 +14,7 @@ Related: [[010 Brain/010 My Brain/Media/Authors\|Authors]]
 
 ## Futurism
 [[010 Brain/010 My Brain/{ The Signals are Talking\|{ The Signals are Talking]]
+[[000 Inbox/Srinivasan-The Network State\|Srinivasan-The Network State]]
 
 ## Personal Development
 [[010 Brain/010 My Brain/{  Atomic Habits\|{  Atomic Habits]]
@@ -25,6 +26,9 @@ Related: [[010 Brain/010 My Brain/Media/Authors\|Authors]]
 [[010 Brain/010 My Brain/{ Start with Why\|{ Start with Why]]
 [[010 Brain/010 My Brain/{ The infinite game\|{ The infinite game]]
 [[010 Brain/010 My Brain/{ Think and Grow Rich\|{ Think and Grow Rich]]
+[[000 Inbox/Kross-Chatter The Voice in Our Head, Why It Matters, and How to Harness It\|Kross-Chatter The Voice in Our Head, Why It Matters, and How to Harness It]]
+[[000 Inbox/Ridgeway-Status Why Is It Everywhere Why Does It Matter\|Ridgeway-Status Why Is It Everywhere Why Does It Matter]]
+[[000 Inbox/Conti_et_al-Trauma The Invisible Epidemic\|Conti_et_al-Trauma The Invisible Epidemic]]
 ## Organization
 [[010 Brain/010 My Brain/{ Building a Second Brain\|{ Building a Second Brain]]
 [[010 Brain/010 My Brain/{ Getting Things Done\|{ Getting Things Done]]
@@ -35,3 +39,6 @@ Related: [[010 Brain/010 My Brain/Media/Authors\|Authors]]
 [[010 Brain/010 My Brain/{ Leadership, Strategies, and Tactics\|{ Leadership, Strategies, and Tactics]]
 ## History
 [[010 Brain/010 My Brain/{ About Face\|{ About Face]]
+
+## Biography
+[[000 Inbox/Isaacson-Elon Musk\|Isaacson-Elon Musk]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-21T11:21:15.201-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-21T16:52:22.446-04:00"}
 ---
 
 
@@ -42,7 +42,7 @@ Review Date:
 	- [[010 Brain/010 My Brain/202108012302 - The Dichotomy of Leadership\|202108012302 - The Dichotomy of Leadership]]—[[{ The Dichotomy of Leadership\|{ The Dichotomy of Leadership]]
 #### p48 [[010 Brain/010 My Brain/202108012047 - The power of relationships\|202108012047 - The power of relationships]]
 #### p52 Play the game
-[[010 Brain/010 My Brain/202108012035 - Play the Game\|202108012035 - Play the Game]]
+[[010 Brain/010 My Brain/202108012035 - Play the Long Game\|202108012035 - Play the Long Game]]
 - You have to play the long game. Try to support the boss and perform your duties to the best of your ability.
 
 -   In playing the game, You are building up trust with your boss, you are building a relationship.
@@ -401,7 +401,7 @@ Don't fall to [[010 Brain/010 My Brain/202108012045 - Digging In\|202108012045 -
 #### p235 The boss wants all the credit
 - Asking for credit is a horrible move to make in any scenario. And in a scenario where you boss is asking for credit, it is an even worse move, because if you boss is asking for credit, it means they are likely insecure. They want the credit to build up their ego, so if you try to take it away from them, it is an attack on their ego, and they will not be happy. They will not trust you, and you will form an antagonistic relationship with them. 
 - If you are working hard and making things happen, credit will eventually come your way. Be patient. And when credit you have not asked for comes your way, it is doubly valued, since you simultaneously appear highly competent and humble, which is a winning combination.
-- [[010 Brain/040 Synthesis/Play the long game\|Play the long game]]
+- [[Play the long game\|Play the long game]]
 
 #### p237 The nearly indefensible leader
 - When a decision is made or a course of action comes down from the chain of command, you must execute it as if it were your own.

@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/wickman-traction/","created":"2023-05-20T23:58:26.000-04:00","updated":"2025-03-21T00:31:56.320-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/wickman-traction/","created":"2023-05-20T23:58:26.000-04:00","updated":"2025-03-21T17:36:23.519-04:00"}
 ---
 
 ---
+[[Library\|Library]]
+
 # Traction
 ## Metadata
 * Author: [[Gino Wickman\|Gino Wickman]]

@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/isaacson-elon-musk/","created":"2024-03-08T11:34:32.000-05:00","updated":"2025-03-20T01:40:20.407-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/isaacson-elon-musk/","created":"2024-03-08T11:34:32.000-05:00","updated":"2025-03-21T17:31:49.482-04:00"}
 ---
 
 ---
 
-# Elon Musk
+[[Library\|Library]]
+# [[& Elon Musk\|& Elon Musk]]
 ## Metadata
-* Author: [Walter Isaacson](https://www.amazon.comundefined)
+* Author: [[& Walter Isaacson\|& Walter Isaacson]](https://www.amazon.comundefined)
 * ASIN: B0BW9TRGKV
 * ISBN: B0CLYQFRK6
 * Reference: https://www.amazon.com/dp/B0BW9TRGKV

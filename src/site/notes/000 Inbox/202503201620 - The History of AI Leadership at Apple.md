@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.000-04:00","updated":"2025-03-21T16:38:15.368-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202503201620-the-history-of-ai-leadership-at-apple/","created":"2025-03-20T16:20:24.000-04:00","updated":"2025-03-21T16:48:28.118-04:00"}
 ---
 
 ---
@@ -76,8 +76,8 @@ The timeline reveals a pattern—innovative sparks dulled by execution hurdles, 
 
 ## 202503211610
 
-Apple, the tech giant, has initiated a significant management shake-up in its AI division to revitalize its struggling virtual assistant, [[Siri\|Siri]]. 
+Apple, the tech giant, has initiated a significant management shake-up in its AI division to revitalize its struggling virtual assistant, [[000 Inbox/202503211613 - Siri\|202503211613 - Siri]]. 
 
-The move comes as [[Tim Cook\|Tim Cook]], Apple’s CEO, has reportedly lost confidence in [[John Giannandrea\|John Giannandrea]]’s ability to lead the AI product development effectively. As a result, [[Mike Rockwell\|Mike Rockwell]], the vice president of the [[Vision Products Group\|Vision Products Group]] and creator of [[Apple Vision Pro\|Apple Vision Pro]], has been tasked with overseeing [[Siri\|Siri]], reporting directly to software chief [[Craig Federighi\|Craig Federighi]]. This change removes [[Siri\|Siri]] from [[Giannandrea\|Giannandrea]]’s purview, although he will continue to manage research and other AI-related technologies.
+The move comes as [[& Tim Cook\|& Tim Cook]], Apple’s CEO, has reportedly lost confidence in [[& John Giannandrea\|& John Giannandrea]]’s ability to lead the AI product development effectively. As a result, [[& Mike Rockwell\|& Mike Rockwell]], the vice president of the [[Vision Products Group\|Vision Products Group]] and creator of [[Apple Vision Pro\|Apple Vision Pro]], has been tasked with overseeing [[000 Inbox/202503211613 - Siri\|202503211613 - Siri]], reporting directly to software chief [[& Craig Federighi\|& Craig Federighi]]. This change removes [[000 Inbox/202503211613 - Siri\|202503211613 - Siri]] from Giannandrea's purview, although he will continue to manage research and other AI-related technologies.
 
-The decision follows a series of challenges faced by Apple’s AI efforts, particularly in comparison to competitors like [[Amazon\|Amazon]]’s [[Alexa\|Alexa]]. Recent issues with [[Siri\|Siri]]’s performance have been highlighted, with concerns that a modernized version may not be available until the release of [[iOS 20\|iOS 20]] in 2027. The shake-up also coincides with internal criticism of [[Siri\|Siri]]’s capabilities, with executives like [[& Robby Walker\|& Robby Walker]] describing recent AI delays as “ugly and embarrassing.” [[Rockwell\|Rockwell]] has been advocating for a more personalized approach to revamp [[Siri\|Siri]], aiming to improve its functionality and competitiveness in the market.
+The decision follows a series of challenges faced by Apple’s AI efforts, particularly in comparison to competitors like [[Amazon\|Amazon]]’s [[Alexa\|Alexa]]. Recent issues with [[000 Inbox/202503211613 - Siri\|202503211613 - Siri]]’s performance have been highlighted, with concerns that a modernized version may not be available until the release of [[iOS 20\|iOS 20]] in 2027. The shake-up also coincides with internal criticism of Siri’s capabilities, with executives like [[& Robby Walker\|& Robby Walker]] describing recent AI delays as “ugly and embarrassing.” Rockwell has been advocating for a more personalized approach to revamp Siri, aiming to improve its functionality and competitiveness in the market.

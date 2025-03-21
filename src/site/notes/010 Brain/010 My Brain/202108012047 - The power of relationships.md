@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012047-the-power-of-relationships/","created":"2021-08-01T20:47:15.000-04:00","updated":"2025-03-20T23:39:40.368-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012047-the-power-of-relationships/","created":"2021-08-01T20:47:15.000-04:00","updated":"2025-03-21T17:35:40.711-04:00"}
 ---
 
 ---
 
--   Leadership requires relationships: good relationships with people above you, below you, and beside you in the chain of command are critical for a strong team
+-   [[Leadership\|Leadership]] requires relationships: good relationships with people above you, below you, and beside you in the chain of command are critical for a strong team
 -   Put the onus on yourself as to why the idea doesn't make sense
 
 > You know boss, I really want to support the plan to the best of my ability, but I'm having a hard time understanding how to execute this part of it. Can you explain why you want it done that way so I can do it right?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012040-conform-to-influence/","created":"2021-08-01T20:40:38.000-04:00","updated":"2025-03-20T23:35:45.909-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012040-conform-to-influence/","created":"2021-08-01T20:40:38.000-04:00","updated":"2025-03-21T16:52:22.423-04:00"}
 ---
 
 ---
@@ -30,7 +30,7 @@ To be in the group, don't be overaggressive. Don't fall to [[010 Brain/010 My Br
 
 ---
 
-ref: [[010 Brain/010 My Brain/202108012035 - Play the Game\|202108012035 - Play the Game]]
+ref: [[010 Brain/010 My Brain/202108012035 - Play the Long Game\|202108012035 - Play the Long Game]]
 
 ---
 

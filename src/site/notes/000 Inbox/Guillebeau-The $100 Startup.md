@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/guillebeau-the-100-startup/","created":"2022-09-18T13:51:28.000-04:00","updated":"2025-03-13T15:17:08.000-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/guillebeau-the-100-startup/","created":"2022-09-18T13:51:28.000-04:00","updated":"2025-03-21T17:10:44.938-04:00"}
 ---
 
 ---
@@ -46,7 +46,7 @@ Oddly, many of these unusual businesses thrive by giving things away, recruiting
 { #ref-30407}
 
 
-Givers [[010 Brain/Give and take\|Give and take]]
+Givers [[010 Brain/010 My Brain/{ Give and Take\|{ Give and Take]]
 
 ---
 Microbusinesses—businesses typically run by only one person—have been around since the beginning of commerce. Merchants roamed the streets of ancient Athens and Rome, hawking their wares. In many parts of rural Africa and Asia, much commerce still takes place through small transactions and barter. — location: [236]()

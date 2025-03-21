@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-03-21T11:26:21.601-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-03-21T17:03:33.191-04:00"}
 ---
 
 ---
@@ -195,7 +195,9 @@ Facebook and other American tech companies began “zero-rating”—essentially
 
 
 ---
-For a country with hundreds of thousands of users, and soon millions, Facebook employed only one moderator who could review content in Burmese, Myanmar’s predominant language, leaving the platform effectively unsupervised. — location: [578](kindle://book?action=open&asin=B09FJPPQQ3&location=578)
+## Disruption of Foreign Governments
+
+For a country with hundreds of thousands of users, and soon millions, Facebook employed only one moderator who could review content in Burmese, [[Myanmar\|Myanmar]]’s predominant language, leaving the platform effectively unsupervised. — location: [578](kindle://book?action=open&asin=B09FJPPQQ3&location=578)
 { #ref-48531}
 
 
@@ -209,6 +211,7 @@ Facebook finally responded to the Deloitte representative, not to inquire after 
 What the fuck  - greedy
 
 ---
+## Expanding Influence of Gaming 
 She posted frequently, and sometimes stridently, in support of a cause then gaining momentum among like-minded game-makers and journalists: broadening gaming’s appeal and fan culture beyond its traditional enclave of young male geeks. But some online gaming circles seethed at feminist transgressors who sought, they believed, to corrupt the hobby that had become, amid a world that struck many early social media obsessives as hostile and confusing, a kind of safe space. This was more than a debate over whether prince-rescues-buxom-princess games could make room for offbeat entries like Quinn’s, or even for girl gamers; it was about a geek male identity whose adherents saw themselves as under attack. Gjoni’s narrative of anger and resentment resonated with their own. — location: [608](kindle://book?action=open&asin=B09FJPPQQ3&location=608)
 { #ref-29884}
 

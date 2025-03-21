@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/","created":"2021-08-06T11:24:12.000-04:00","updated":"2025-03-13T15:15:06.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/","created":"2021-08-06T11:24:12.000-04:00","updated":"2025-03-21T16:52:22.458-04:00"}
 ---
 
 ---
@@ -17,7 +17,7 @@ tags: #productivity #leadership #business
 	> ? What does he need to know to use his strength?
 	> ? What does he need to get from me to perform?
 	
-- reference to [[010 Brain/010 My Brain/202108012035 - Play the Game\|202108012035 - Play the Game]]
+- reference to [[010 Brain/010 My Brain/202108012035 - Play the Long Game\|202108012035 - Play the Long Game]]
 	- It enables him to achieve and accomplish the things he himself believes in
 
 - It is generally a waste of time to talk to a reader. He only listens after he has read. It is equally a waste of time to submit a voluminous report to a listener. He can only grasp what it is all about through the spoken word.

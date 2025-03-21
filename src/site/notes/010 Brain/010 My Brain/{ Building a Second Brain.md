@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-13T15:12:11.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-21T17:24:19.723-04:00"}
 ---
 
 
@@ -122,7 +122,7 @@ author: [[& Tiago Forte\|& Tiago Forte]]
 - Layers: "case files"
 - Marketers/advertisers: "swipe files"
 - In the digital world we live in, knowledge most often shows up as "content" - snippits of text, screenshots, bookmarked articles, podcasts, etc.
-	- These aren't just "random artifacts" - they are [[010 Brain/010 My Brain/202207090931 - knowledge asset\|202207090931 - knowledge asset]]s
+	- These aren't just "random artifacts" - they are [[010 Brain/010 My Brain/202207090931 - Knowledge Asset\|202207090931 - Knowledge Asset]]s
 { #6cc9a5}
 
 
