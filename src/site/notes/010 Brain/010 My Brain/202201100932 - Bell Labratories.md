@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202201100932-bell-labratories/","created":"2022-01-10T09:32:08.000-05:00","updated":"2025-03-21T16:54:19.684-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202201100932-bell-labratories/","created":"2022-01-10T09:32:08.000-05:00","updated":"2025-03-21T16:54:19.000-04:00"}
 ---
 
 ---

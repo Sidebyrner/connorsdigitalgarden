@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202406191236-the-state-of-social-media-influencer-compensation-in-2024/","created":"2024-06-19T12:36:21.000-04:00","updated":"2025-03-20T14:33:36.000-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202406191236-the-state-of-social-media-influencer-compensation-in-2024/","created":"2024-06-19T12:36:21.211-04:00","updated":"2025-03-20T14:33:36.857-04:00"}
 ---
 
 ---

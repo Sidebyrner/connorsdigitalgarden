@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012154-rhythmic-philosophy-of-deep-work/","created":"2021-08-01T21:54:51.000-04:00","updated":"2025-03-20T01:11:06.439-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012154-rhythmic-philosophy-of-deep-work/","created":"2021-08-01T21:54:51.000-04:00","updated":"2025-03-20T01:11:06.000-04:00"}
 ---
 
 ---

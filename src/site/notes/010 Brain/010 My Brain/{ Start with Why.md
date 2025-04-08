@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/start-with-why/","created":"2021-08-11T09:40:04.000-04:00","updated":"2025-03-13T15:15:45.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/start-with-why/","created":"2021-08-11T09:40:04.000-04:00","updated":"2025-03-13T15:15:45.095-04:00"}
 ---
 
 

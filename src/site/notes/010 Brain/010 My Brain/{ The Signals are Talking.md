@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-signals-are-talking/","created":"2021-12-18T10:11:33.000-05:00","updated":"2025-03-21T17:29:30.220-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-signals-are-talking/","created":"2021-12-18T10:11:33.000-05:00","updated":"2025-04-07T23:49:28.161-04:00"}
 ---
 
 
@@ -145,6 +145,9 @@ Our resistance to change is hardwired in the oldest, reptilian portion of our br
 
 - Pressure testing your strategy ensures that you aren't making the kinds of mistakes that will render your work ineffectual, cause you to miss additional scenarios, or launch products, services, or initiatives that can't be sustained.
 ##### Bots Behaving Badly
+{ #815a3f}
+
+
 - In [[{ De Corpore\|{ De Corpore]], a book written by [[010 Brain/010 My Brain/& Thomas Hobbes\|& Thomas Hobbes]], human reasoning is described as computation: "By reasoning, and understanding computation. And to compute is to collect the sum of many things added together at the same time, or to know the remainder when one thing has been taken from another. To reason therefore is the same as to add or subtract."
 - In 1949, [[& Alan Turing\|& Alan Turing]], said: 
 > "I do not see why it (the machine) should not enter any one of the fields normally covered by the human intellect, and eventually compete on equal terms. I do not think you even draw the line about sonnets, though the comparison is perhaps a little bit unfair because a sonnet written by a machine will be better appreciated by another machine"

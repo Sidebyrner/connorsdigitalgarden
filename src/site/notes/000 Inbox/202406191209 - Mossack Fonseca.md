@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202406191209-mossack-fonseca/","created":"2024-06-19T12:09:06.000-04:00","updated":"2025-03-21T17:08:45.678-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202406191209-mossack-fonseca/","created":"2024-06-19T12:09:06.000-04:00","updated":"2025-03-21T17:08:45.000-04:00"}
 ---
 
 ---

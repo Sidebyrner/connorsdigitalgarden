@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012302-the-dichotomy-of-leadership/","created":"2021-08-01T23:02:06.000-04:00","updated":"2025-03-20T23:42:41.098-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012302-the-dichotomy-of-leadership/","created":"2021-08-01T23:02:06.000-04:00","updated":"2025-03-20T23:42:41.000-04:00"}
 ---
 
 ---

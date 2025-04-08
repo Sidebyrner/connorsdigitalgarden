@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/and-dale-miller/","created":"2025-03-21T00:16:19.731-04:00","updated":"2025-03-21T00:25:37.954-04:00"}
+{"dg-publish":true,"permalink":"/and-dale-miller/","created":"2025-03-21T00:16:19.000-04:00","updated":"2025-03-21T00:25:37.000-04:00"}
 ---
 
 ---

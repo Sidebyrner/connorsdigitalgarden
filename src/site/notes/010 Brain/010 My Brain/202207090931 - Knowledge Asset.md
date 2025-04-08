@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207090931-knowledge-asset/","created":"2022-07-09T09:31:01.000-04:00","updated":"2025-03-21T15:57:21.313-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207090931-knowledge-asset/","created":"2022-07-09T09:31:01.000-04:00","updated":"2025-04-07T23:34:42.205-04:00"}
 ---
 
 ---

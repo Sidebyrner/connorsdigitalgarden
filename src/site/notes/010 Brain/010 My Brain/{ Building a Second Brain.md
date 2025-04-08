@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-21T17:24:19.723-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/building-a-second-brain/","created":"2022-06-22T22:35:11.000-04:00","updated":"2025-03-21T17:24:19.000-04:00"}
 ---
 
 
@@ -197,7 +197,7 @@ We need an external medium in which to see our ideas from another vantage point,
 
 #### 1. Projects: Short term efforts in you work or life that you're working on now
 - [[010 Brain/010 My Brain/202206222239 - Hollywood model\|202206222239 - Hollywood model]]
-- [[010 Brain/010 My Brain/202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
+- [[202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
 #### 2. Areas: Long-term responsibilities you want to manage over time
 > Mission driven - standard measured
 
@@ -251,7 +251,7 @@ We need an external medium in which to see our ideas from another vantage point,
 - The purpose of a single note or group of notes can and does change over time as your needs and goals change. Every life move through seasons, and you digital notes should move along with them
 	- #comment When notes can't move, they collect dust. When they collect dust, they go unseen, and therefore, unused.
 ### p105 - Completed Projects are the Oxygen of your second brain
-- [[& Tiago Forte\|& Tiago Forte]] worked in [[010 Brain/010 My Brain/202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
+- [[& Tiago Forte\|& Tiago Forte]] worked in [[202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
 	- had 1 hour 1-on-1 sessions to help people move/organize files
 	- Took too long, ended up having people just collect all their old files into an Archive to be used when needed in the future.
 - people didn't need or want an organized computer. They had spent all this money and time moving to a Mac because there was something they wanted to create or achieve.
@@ -267,9 +267,12 @@ We need an external medium in which to see our ideas from another vantage point,
 ## Chapter 8: The art of creative execution
 ### p182 - The Archipelago of Ideas: Give yourself Stepping Stones
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/010-brain/010-my-brain/202207091124-archipelago-of-ideas/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+
+---
 
 - To create an Archipelago of Ideas, you divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable.
 

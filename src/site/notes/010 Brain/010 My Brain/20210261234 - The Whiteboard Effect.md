@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/20210261234-the-whiteboard-effect/","created":"2021-08-01T11:59:28.000-04:00","updated":"2025-03-21T15:51:14.371-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/20210261234-the-whiteboard-effect/","created":"2021-08-01T11:59:28.000-04:00","updated":"2025-03-21T15:51:14.000-04:00"}
 ---
 
 ---

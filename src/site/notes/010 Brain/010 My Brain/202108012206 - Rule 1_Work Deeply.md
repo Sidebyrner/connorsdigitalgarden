@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012206-rule-1-work-deeply/","created":"2021-08-01T22:06:07.000-04:00","updated":"2025-03-21T16:21:48.537-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012206-rule-1-work-deeply/","created":"2021-08-01T22:06:07.000-04:00","updated":"2025-03-21T16:21:48.000-04:00"}
 ---
 
 ---

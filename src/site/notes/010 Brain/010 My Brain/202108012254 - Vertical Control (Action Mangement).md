@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012254-vertical-control-action-mangement/","created":"2021-08-01T22:54:02.000-04:00","updated":"2025-03-21T17:23:13.396-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012254-vertical-control-action-mangement/","created":"2021-08-01T22:54:02.000-04:00","updated":"2025-03-21T17:23:13.000-04:00"}
 ---
 
 ---

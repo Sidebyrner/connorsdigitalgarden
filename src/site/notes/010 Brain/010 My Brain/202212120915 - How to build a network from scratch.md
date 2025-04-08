@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212120915-how-to-build-a-network-from-scratch/","created":"2022-12-12T09:15:52.000-05:00","updated":"2025-03-21T17:33:37.666-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212120915-how-to-build-a-network-from-scratch/","created":"2022-12-12T09:15:52.000-05:00","updated":"2025-03-21T17:33:37.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012152-bimodal-philosophy-of-deep-work/","created":"2021-08-01T21:52:31.000-04:00","updated":"2025-03-21T15:49:39.891-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012152-bimodal-philosophy-of-deep-work/","created":"2021-08-01T21:52:31.000-04:00","updated":"2025-03-21T15:49:39.000-04:00"}
 ---
 
 ---

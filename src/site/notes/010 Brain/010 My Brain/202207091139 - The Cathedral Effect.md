@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091139-the-cathedral-effect/","created":"2022-07-09T11:39:16.000-04:00","updated":"2025-03-20T14:34:23.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091139-the-cathedral-effect/","created":"2022-07-09T11:39:16.000-04:00","updated":"2025-03-20T14:34:23.801-04:00"}
 ---
 
 ---

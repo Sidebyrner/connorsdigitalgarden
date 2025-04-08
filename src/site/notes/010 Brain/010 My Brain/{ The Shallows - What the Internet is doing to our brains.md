@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-shallows-what-the-internet-is-doing-to-our-brains/","created":"2021-07-30T14:21:25.000-04:00","updated":"2025-03-13T15:14:22.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/the-shallows-what-the-internet-is-doing-to-our-brains/","created":"2021-07-30T14:21:25.000-04:00","updated":"2025-03-13T15:14:22.092-04:00"}
 ---
 
 ---

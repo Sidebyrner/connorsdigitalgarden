@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2017-wanna-cry-ransomware-attack/","created":"2024-06-27T00:18:15.000-04:00","updated":"2025-03-21T17:16:05.790-04:00"}
+{"dg-publish":true,"permalink":"/2017-wanna-cry-ransomware-attack/","created":"2024-06-27T00:18:15.000-04:00","updated":"2025-03-21T17:16:05.000-04:00"}
 ---
 
 ---

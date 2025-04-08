@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202211092342-credit-suisse-crisis-explained/","created":"2022-11-09T23:42:56.000-05:00","updated":"2025-03-21T17:34:22.243-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202211092342-credit-suisse-crisis-explained/","created":"2022-11-09T23:42:56.000-05:00","updated":"2025-03-21T17:34:22.000-04:00"}
 ---
 
 ---

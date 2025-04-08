@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202205022053-tiago-forte-and-toyota/","created":"2022-05-02T20:53:50.000-04:00","updated":"2025-03-21T17:20:42.112-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202205022053-tiago-forte-and-toyota/","created":"2022-05-02T20:53:50.000-04:00","updated":"2025-03-21T17:20:42.000-04:00"}
 ---
 
 ---

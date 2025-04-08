@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202503211704-democratic-socialism/","created":"2025-03-21T17:04:07.418-04:00","updated":"2025-03-21T17:04:47.837-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202503211704-democratic-socialism/","created":"2025-03-21T17:04:07.000-04:00","updated":"2025-03-21T17:04:47.000-04:00"}
 ---
 
 ---

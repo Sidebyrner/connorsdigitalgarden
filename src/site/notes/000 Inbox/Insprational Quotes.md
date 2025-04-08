@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/insprational-quotes/","created":"2022-06-22T23:37:10.000-04:00","updated":"2025-03-21T17:36:08.794-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/insprational-quotes/","created":"2022-06-22T23:37:10.000-04:00","updated":"2025-03-21T17:36:08.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-21T15:46:53.523-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/ego-is-the-enemy/","created":"2021-12-23T08:50:23.000-05:00","updated":"2025-03-21T15:46:53.000-04:00"}
 ---
 
 ---

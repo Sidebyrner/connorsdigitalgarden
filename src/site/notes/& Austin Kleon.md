@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/and-austin-kleon/","created":"2025-03-20T23:50:20.434-04:00","updated":"2025-03-20T23:54:18.929-04:00"}
+{"dg-publish":true,"permalink":"/and-austin-kleon/","created":"2025-03-20T23:50:20.000-04:00","updated":"2025-03-20T23:54:18.000-04:00"}
 ---
 
 ---

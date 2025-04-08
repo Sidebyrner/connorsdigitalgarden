@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012141-the-law-of-the-vital-few/","created":"2021-08-01T21:41:03.000-04:00","updated":"2025-03-21T15:53:24.592-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012141-the-law-of-the-vital-few/","created":"2021-08-01T21:41:03.000-04:00","updated":"2025-03-21T15:53:24.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108011448-deep-work-hypothesis/","created":"2021-08-01T14:48:50.000-04:00","updated":"2025-03-21T17:33:04.213-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108011448-deep-work-hypothesis/","created":"2021-08-01T14:48:50.000-04:00","updated":"2025-03-21T17:33:04.000-04:00"}
 ---
 
 ---

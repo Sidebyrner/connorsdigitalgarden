@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/and-robby-walker/","created":"2025-03-21T16:12:25.337-04:00","updated":"2025-03-21T16:32:56.008-04:00"}
+{"dg-publish":true,"permalink":"/and-robby-walker/","created":"2025-03-21T16:12:25.000-04:00","updated":"2025-03-21T16:32:56.000-04:00"}
 ---
 
 ---
@@ -8,7 +8,7 @@ Robby Walker is a senior director at Apple, overseeing the development of [[000 
 
 In recent meetings, Walker acknowledged the frustration and burnout among team members, praising their hard work while emphasizing Apple's commitment to delivering high-quality AI features[4][6]. He noted that the marketing department's decision to promote unfinished features exacerbated the situation, leading to heightened customer expectations and disappointment[6].
 
-Walker's role involves navigating the complex landscape of AI development at [[010 Brain/010 My Brain/202207152017 - Apple Inc.\|202207152017 - Apple Inc.]], working closely with senior executives like [[& Craig Federighi\|& Craig Federighi]] and [[& John Giannandrea\|& John Giannandrea]] to address these challenges and improve Siri's performance[6]. Despite the setbacks, Walker remains optimistic about Apple's ability to enhance Siri and regain its competitive edge in the [[000 Inbox/202503211617 - Artificial Intelligence - AI\|202503211617 - Artificial Intelligence - AI]] market[4][6].
+Walker's role involves navigating the complex landscape of AI development at [[202207152017 - Apple Inc.\|202207152017 - Apple Inc.]], working closely with senior executives like [[& Craig Federighi\|& Craig Federighi]] and [[& John Giannandrea\|& John Giannandrea]] to address these challenges and improve Siri's performance[6]. Despite the setbacks, Walker remains optimistic about Apple's ability to enhance Siri and regain its competitive edge in the [[000 Inbox/202503211617 - Artificial Intelligence - AI\|202503211617 - Artificial Intelligence - AI]] market[4][6].
 
 Sources
 [1] Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri https://www.bloomberg.com/news/articles/2025-03-20/apple-vision-pro-chief-mike-rockwell-named-siri-head-giannandrea-keeps-ai-role

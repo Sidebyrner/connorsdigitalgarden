@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/040-synthesis/looking-up-and-out-instead-of-down-and-in/","created":"2021-08-08T11:38:01.000-04:00","updated":"2025-03-21T00:02:52.161-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/040-synthesis/looking-up-and-out-instead-of-down-and-in/","created":"2021-08-08T11:38:01.000-04:00","updated":"2025-03-21T00:02:52.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012131-roosevelt-dash/","created":"2021-08-01T21:31:02.000-04:00","updated":"2025-03-21T15:52:07.781-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012131-roosevelt-dash/","created":"2021-08-01T21:31:02.000-04:00","updated":"2025-03-21T15:52:07.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202208221726-fredkin-s-paradox/","created":"2022-08-22T17:26:48.000-04:00","updated":"2025-03-21T17:22:37.445-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202208221726-fredkin-s-paradox/","created":"2022-08-22T17:26:48.000-04:00","updated":"2025-03-21T17:22:37.000-04:00"}
 ---
 
 ---

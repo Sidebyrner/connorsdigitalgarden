@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202406260957-types-of-ransomware-attacks/","created":"2024-06-26T09:56:53.000-04:00","updated":"2025-03-21T11:24:42.408-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202406260957-types-of-ransomware-attacks/","created":"2024-06-26T09:56:53.000-04:00","updated":"2025-03-21T11:24:42.000-04:00"}
 ---
 
 ---

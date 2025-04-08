@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202411041228-convertible-debt/","created":"2024-11-04T12:28:42.000-05:00","updated":"2025-03-21T16:32:25.070-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202411041228-convertible-debt/","created":"2024-11-04T12:28:42.000-05:00","updated":"2025-03-21T16:32:25.000-04:00"}
 ---
 
 ---

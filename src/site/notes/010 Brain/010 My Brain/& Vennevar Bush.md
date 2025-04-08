@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-vennevar-bush/","created":"2022-07-08T20:26:11.000-04:00","updated":"2025-03-21T17:11:02.139-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-vennevar-bush/","created":"2022-07-08T20:26:11.000-04:00","updated":"2025-03-21T17:11:02.000-04:00"}
 ---
 
 ---

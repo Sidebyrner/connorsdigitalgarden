@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-21T16:52:22.446-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/leadership-strategies-and-tactics/","created":"2021-08-01T12:44:34.000-04:00","updated":"2025-03-21T16:52:22.000-04:00"}
 ---
 
 
@@ -51,9 +51,9 @@ Review Date:
 
 > Hey boss, I just wanted to make sure I completely understand why you want it done this way so I can fully support your plan."
 
-#### p55 [[010 Brain/010 My Brain/202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]]
+#### p55 [[202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]]
 #### p61 [[010 Brain/010 My Brain/202108041039 - Refusal to comply\|202108041039 - Refusal to comply]]
-#### p63 [[010 Brain/010 My Brain/202108041042 - Are leaders born or made?\|202108041042 - Are leaders born or made?]]
+#### p63 [[202108041042 - Are leaders born or made?\|202108041042 - Are leaders born or made?]]
 #### p70 Leadership and manipulation
 - Manipulators are trying to get people to do things that will benefit the manipulator, while leaders are trying to get people to do things that will benefit the team and the people themselves. 
 	- the leader puts themselves on the bottom of the priority list The good of the mission and the good of the team outweigh any personal concern a true leader has for themselves. 
@@ -410,7 +410,7 @@ Don't fall to [[010 Brain/010 My Brain/202108012045 - Digging In\|202108012045 -
 	 > - Look, the boss might not be ideal, but she still gives us the support we need. The better we perform, the more support we will get. 
 	 > - The boss has some quirks, but we know where he stands, so we work with him to the best of our abilities, which means dealing with those quirks so we can get the job done.
 	 > - Complaining about the boss doesn't get us anywhere, and it doesn't make our jobs any easier. What we can do is try to form a good relationship with her so we can influence her in the right direction. 
-- [[010 Brain/010 My Brain/202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]]
+- [[202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]]
 
 #### p240 Stress relief
 - [[010 Brain/010 My Brain/{ Leadership, Strategies, and Tactics#^81c555\|{ Leadership, Strategies, and Tactics#^81c555]] is the first step in relieving stress. 

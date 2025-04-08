@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/120-chat-gtp/202212272307-10-research-questions-to-develop-a-thesis/","created":"2022-12-27T23:06:48.000-05:00","updated":"2025-03-21T17:13:04.037-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/120-chat-gtp/202212272307-10-research-questions-to-develop-a-thesis/","created":"2022-12-27T23:06:48.000-05:00","updated":"2025-03-21T17:13:04.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-03-21T17:03:33.191-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/fisher-the-chaos-machine/","created":"2022-09-19T23:18:01.000-04:00","updated":"2025-04-07T23:34:07.126-04:00"}
 ---
 
 ---
@@ -264,7 +264,7 @@ Graham has said he looks for “nerds” and “idealists” with “a piratical
 { #ref-65097}
 
 
-[[[{ Blitzscaling\|[{ Blitzscaling]]
+[[{ Blitzscaling\|{ Blitzscaling]]
 
 ---
 so often the case in the Valley, the hidden force behind everything, setting both the culture and the economics, was venture capitalism. The practice of engineers becoming VCs who pick the next generation of dominant engineers kept the ideological gene pool incestuously narrow. — location: [780](kindle://book?action=open&asin=B09FJPPQQ3&location=780)

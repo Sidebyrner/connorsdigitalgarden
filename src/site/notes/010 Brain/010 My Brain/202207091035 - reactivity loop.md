@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091035-reactivity-loop/","created":"2022-07-09T10:35:48.000-04:00","updated":"2025-03-21T17:33:18.936-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091035-reactivity-loop/","created":"2022-07-09T10:35:48.000-04:00","updated":"2025-03-21T17:33:18.000-04:00"}
 ---
 
 ---

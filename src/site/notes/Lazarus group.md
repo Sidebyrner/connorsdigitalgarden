@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lazarus-group/","created":"2024-06-27T00:14:52.000-04:00","updated":"2025-03-21T17:07:35.223-04:00"}
+{"dg-publish":true,"permalink":"/lazarus-group/","created":"2024-06-27T00:14:52.000-04:00","updated":"2025-03-21T17:07:35.000-04:00"}
 ---
 
 ---

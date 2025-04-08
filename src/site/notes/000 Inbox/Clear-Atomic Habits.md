@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/clear-atomic-habits/","created":"2022-12-20T11:22:59.000-05:00","updated":"2025-03-21T17:19:46.549-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/clear-atomic-habits/","created":"2022-12-20T11:22:59.000-05:00","updated":"2025-03-21T17:19:46.000-04:00"}
 ---
 
 ---

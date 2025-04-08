@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207161016-the-odessy-plan/","created":"2022-07-16T10:16:57.000-04:00","updated":"2025-03-21T17:29:19.769-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207161016-the-odessy-plan/","created":"2022-07-16T10:16:57.000-04:00","updated":"2025-03-21T17:29:19.000-04:00"}
 ---
 
 ---

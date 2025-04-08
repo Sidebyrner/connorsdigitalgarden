@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/give-and-take/","created":"2022-02-16T12:06:40.000-05:00","updated":"2025-03-21T00:25:35.951-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/give-and-take/","created":"2022-02-16T12:06:40.000-05:00","updated":"2025-03-21T00:25:35.000-04:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-03-08T13:12:42.000-05:00","updated":"2025-03-20T15:58:01.000-04:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-03-08T13:12:42.776-05:00","updated":"2025-03-20T15:58:01.756-04:00"}
 ---
 
 # Connor's Digital Brain - a repository of learning and discovery

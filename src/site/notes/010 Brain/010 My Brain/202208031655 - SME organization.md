@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202208031655-sme-organization/","created":"2022-08-03T16:55:28.000-04:00","updated":"2025-03-20T01:46:23.895-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202208031655-sme-organization/","created":"2022-08-03T16:55:28.000-04:00","updated":"2025-03-20T01:46:23.000-04:00"}
 ---
 
 ---
@@ -63,7 +63,7 @@ Before modern knowledge management, there were 2 ways to get organized:
 
 #### 1. Projects: Short term efforts in you work or life that you're working on now
 - [[010 Brain/010 My Brain/202206222239 - Hollywood model\|202206222239 - Hollywood model]]
-- [[010 Brain/010 My Brain/202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
+- [[202207162056 - How Do I select Projects?\|202207162056 - How Do I select Projects?]]
 - *Projects* are most actionable because you're working on them right now and with a concrete deadline in mind [[010 Brain/010 My Brain/202108012140 - Parkinson's Law\|202108012140 - Parkinson's Law]]
 #### 2. Areas: Long-term responsibilities you want to manage over time
 > Mission driven - standard measured

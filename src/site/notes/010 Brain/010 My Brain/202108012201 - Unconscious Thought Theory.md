@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012201-unconscious-thought-theory/","created":"2021-08-01T22:01:15.000-04:00","updated":"2025-03-21T17:07:41.890-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012201-unconscious-thought-theory/","created":"2021-08-01T22:01:15.000-04:00","updated":"2025-03-21T17:07:41.000-04:00"}
 ---
 
 ---

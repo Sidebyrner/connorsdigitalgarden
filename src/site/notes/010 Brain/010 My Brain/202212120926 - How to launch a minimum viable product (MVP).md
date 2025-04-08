@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212120926-how-to-launch-a-minimum-viable-product-mvp/","created":"2022-12-12T09:26:04.000-05:00","updated":"2025-03-21T00:33:10.835-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212120926-how-to-launch-a-minimum-viable-product-mvp/","created":"2022-12-12T09:26:04.000-05:00","updated":"2025-03-21T00:33:10.000-04:00"}
 ---
 
 ---

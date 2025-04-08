@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/050-web-notes/052-article-notes/building-a-career-from-different-income-streams/","created":"2022-09-04T11:13:27.000-04:00","updated":"2025-03-21T17:34:39.719-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/050-web-notes/052-article-notes/building-a-career-from-different-income-streams/","created":"2022-09-04T11:13:27.000-04:00","updated":"2025-03-21T17:34:39.000-04:00"}
 ---
 
 ---

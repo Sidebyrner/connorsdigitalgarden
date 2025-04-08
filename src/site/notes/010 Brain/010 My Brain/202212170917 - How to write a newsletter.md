@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212170917-how-to-write-a-newsletter/","created":"2022-12-17T09:17:08.000-05:00","updated":"2025-03-21T17:25:09.776-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202212170917-how-to-write-a-newsletter/","created":"2022-12-17T09:17:08.000-05:00","updated":"2025-03-21T17:25:09.000-04:00"}
 ---
 
 ---

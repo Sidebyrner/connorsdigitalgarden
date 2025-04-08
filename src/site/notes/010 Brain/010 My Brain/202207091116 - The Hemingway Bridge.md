@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091116-the-hemingway-bridge/","created":"2022-07-09T11:16:15.000-04:00","updated":"2025-03-21T17:19:00.785-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207091116-the-hemingway-bridge/","created":"2022-07-09T11:16:15.000-04:00","updated":"2025-03-21T17:19:00.000-04:00"}
 ---
 
 ---

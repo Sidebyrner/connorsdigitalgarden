@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/and-robert-darnton/","created":"2022-12-25T13:38:58.000-05:00","updated":"2025-03-13T15:25:29.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/and-robert-darnton/","created":"2022-12-25T13:38:58.000-05:00","updated":"2025-03-13T15:25:29.224-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/202211282109-sequential-growth/","created":"2022-11-28T21:09:27.000-05:00","updated":"2025-03-21T17:34:29.881-04:00"}
+{"dg-publish":true,"permalink":"/202211282109-sequential-growth/","created":"2022-11-28T21:09:27.000-05:00","updated":"2025-03-21T17:34:29.000-04:00"}
 ---
 
 ---

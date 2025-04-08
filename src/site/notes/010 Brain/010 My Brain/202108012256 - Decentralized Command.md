@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012256-decentralized-command/","created":"2021-08-01T22:56:32.000-04:00","updated":"2025-03-20T23:38:22.696-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108012256-decentralized-command/","created":"2021-08-01T22:56:32.000-04:00","updated":"2025-03-20T23:38:22.000-04:00"}
 ---
 
 ---

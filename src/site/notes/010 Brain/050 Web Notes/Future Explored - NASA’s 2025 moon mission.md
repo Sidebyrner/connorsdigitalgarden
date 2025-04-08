@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/050-web-notes/future-explored-nasa-s-2025-moon-mission/","created":"2022-04-07T22:41:59.000-04:00","updated":"2025-03-21T16:27:55.396-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/050-web-notes/future-explored-nasa-s-2025-moon-mission/","created":"2022-04-07T22:41:59.000-04:00","updated":"2025-03-21T16:27:55.000-04:00"}
 ---
 
 ---

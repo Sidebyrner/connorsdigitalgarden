@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ethan-kross/","created":"2025-03-13T15:05:22.000-04:00","updated":"2025-03-20T14:59:25.000-04:00"}
+{"dg-publish":true,"permalink":"/ethan-kross/","created":"2025-03-13T15:05:22.449-04:00","updated":"2025-03-20T14:59:25.270-04:00"}
 ---
 
 

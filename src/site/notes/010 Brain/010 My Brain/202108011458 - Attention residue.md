@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108011458-attention-residue/","created":"2021-08-01T14:58:56.000-04:00","updated":"2025-03-21T16:22:00.638-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108011458-attention-residue/","created":"2021-08-01T14:58:56.000-04:00","updated":"2025-03-21T16:22:00.000-04:00"}
 ---
 
 ---

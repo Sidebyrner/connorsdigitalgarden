@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-earnest-hemingway/","created":"2022-07-13T23:12:54.000-04:00","updated":"2025-03-21T16:29:36.992-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/and-earnest-hemingway/","created":"2022-07-13T23:12:54.000-04:00","updated":"2025-03-21T16:29:36.000-04:00"}
 ---
 
 ---

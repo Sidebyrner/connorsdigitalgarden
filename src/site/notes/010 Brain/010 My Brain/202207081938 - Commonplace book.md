@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207081938-commonplace-book/","created":"2022-07-08T19:38:57.000-04:00","updated":"2025-03-13T15:25:36.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207081938-commonplace-book/","created":"2022-07-08T19:38:57.000-04:00","updated":"2025-03-13T15:25:36.531-04:00"}
 ---
 
 

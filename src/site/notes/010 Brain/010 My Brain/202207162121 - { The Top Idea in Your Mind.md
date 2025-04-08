@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207162121-the-top-idea-in-your-mind/","created":"2022-07-16T21:21:13.000-04:00","updated":"2025-03-21T00:28:08.534-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202207162121-the-top-idea-in-your-mind/","created":"2022-07-16T21:21:13.000-04:00","updated":"2025-03-21T00:28:08.000-04:00"}
 ---
 
 ---

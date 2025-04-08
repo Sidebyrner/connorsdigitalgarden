@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/show-your-work/","created":"2021-08-02T12:36:48.000-04:00","updated":"2025-03-20T23:47:03.118-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/show-your-work/","created":"2021-08-02T12:36:48.000-04:00","updated":"2025-03-20T23:47:03.000-04:00"}
 ---
 
 ---

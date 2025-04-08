@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/202212272310-peer-reviewed-research-on-the-relationship-between-job-satisfaction-and-organizational-commitment/","created":"2022-12-27T23:11:20.000-05:00","updated":"2025-03-21T17:10:05.964-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/202212272310-peer-reviewed-research-on-the-relationship-between-job-satisfaction-and-organizational-commitment/","created":"2022-12-27T23:11:20.000-05:00","updated":"2025-03-21T17:10:05.000-04:00"}
 ---
 
 ---

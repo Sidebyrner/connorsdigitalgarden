@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/and-george-orwell/","created":"2025-03-21T16:57:50.797-04:00","updated":"2025-03-21T17:05:31.006-04:00"}
+{"dg-publish":true,"permalink":"/and-george-orwell/","created":"2025-03-21T16:57:50.000-04:00","updated":"2025-03-21T17:05:31.000-04:00"}
 ---
 
 ---

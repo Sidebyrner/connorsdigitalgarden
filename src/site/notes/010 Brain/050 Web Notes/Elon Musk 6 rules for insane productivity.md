@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/050-web-notes/elon-musk-6-rules-for-insane-productivity/","created":"2022-11-16T22:36:30.000-05:00","updated":"2025-03-21T16:30:47.597-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/050-web-notes/elon-musk-6-rules-for-insane-productivity/","created":"2022-11-16T22:36:30.000-05:00","updated":"2025-03-21T16:30:47.000-04:00"}
 ---
 
 ---
