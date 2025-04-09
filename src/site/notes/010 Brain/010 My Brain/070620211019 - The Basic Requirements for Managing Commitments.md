@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/070620211019-the-basic-requirements-for-managing-commitments/","created":"2021-08-01T12:46:33.000-04:00","updated":"2025-03-21T17:27:43.986-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/070620211019-the-basic-requirements-for-managing-commitments/","created":"2021-08-01T12:46:33.000-04:00","updated":"2025-03-21T17:27:43.000-04:00"}
 ---
 
 ---

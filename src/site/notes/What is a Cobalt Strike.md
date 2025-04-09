@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-a-cobalt-strike/","tags":["term"],"created":"2024-06-27T00:13:51.000-04:00","updated":"2025-03-21T17:23:22.654-04:00"}
+{"dg-publish":true,"permalink":"/what-is-a-cobalt-strike/","tags":["term"],"created":"2024-06-27T00:13:51.000-04:00","updated":"2025-03-21T17:23:22.000-04:00"}
 ---
 
 ---

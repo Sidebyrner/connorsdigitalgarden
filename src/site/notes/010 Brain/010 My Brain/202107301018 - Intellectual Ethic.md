@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301018-intellectual-ethic/","created":"2021-07-30T14:43:43.000-04:00","updated":"2025-03-13T15:13:51.000-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107301018-intellectual-ethic/","created":"2021-07-30T14:43:43.000-04:00","updated":"2025-03-13T15:13:51.345-04:00"}
 ---
 
 

@@ -251,7 +251,7 @@ We need an external medium in which to see our ideas from another vantage point,
 - The purpose of a single note or group of notes can and does change over time as your needs and goals change. Every life move through seasons, and you digital notes should move along with them
 	- #comment When notes can't move, they collect dust. When they collect dust, they go unseen, and therefore, unused.
 ### p105 - Completed Projects are the Oxygen of your second brain
-- [[& Tiago Forte\|& Tiago Forte]] worked in [[202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
+- [[& Tiago Forte\|& Tiago Forte]] worked in [[010 Brain/010 My Brain/202207152017 - Apple Inc.\|202207152017 - Apple Inc.]] stores helping people load their new macs
 	- had 1 hour 1-on-1 sessions to help people move/organize files
 	- Took too long, ended up having people just collect all their old files into an Archive to be used when needed in the future.
 - people didn't need or want an organized computer. They had spent all this money and time moving to a Mac because there was something they wanted to create or achieve.

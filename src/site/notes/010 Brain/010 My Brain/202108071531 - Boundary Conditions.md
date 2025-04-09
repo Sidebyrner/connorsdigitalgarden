@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108071531-boundary-conditions/","created":"2021-08-07T15:31:45.000-04:00","updated":"2025-03-21T00:29:39.447-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108071531-boundary-conditions/","created":"2021-08-07T15:31:45.000-04:00","updated":"2025-03-21T00:29:39.000-04:00"}
 ---
 
 ---

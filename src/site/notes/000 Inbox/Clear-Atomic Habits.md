@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/clear-atomic-habits/","created":"2022-12-20T11:22:59.000-05:00","updated":"2025-03-21T17:19:46.000-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/clear-atomic-habits/","created":"2022-12-20T11:22:59.000-05:00","updated":"2025-04-08T23:04:46.125-04:00"}
 ---
 
 ---
@@ -494,7 +494,7 @@ Want to think more creatively? Move to a bigger room, a rooftop patio, or a buil
 { #ref-41893}
 
 
-[[Cathedral Effect\|Cathedral Effect]]
+[[202504082304 - Cathedral Effect\|202504082304 - Cathedral Effect]]
 
 ---
 cooking. The mantra I find useful is “One space, one use.” — location: [1149](kindle://book?action=open&asin=B07D23CFGR&location=1149)

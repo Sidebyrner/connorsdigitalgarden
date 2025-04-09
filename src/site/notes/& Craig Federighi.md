@@ -4,6 +4,6 @@
 
 ---
 
-[[202207152017 - Apple Inc.#Executives\|202207152017 - Apple Inc.#Executives]]
+[[010 Brain/010 My Brain/202207152017 - Apple Inc.#Executives\|202207152017 - Apple Inc.#Executives]]
 
 ---

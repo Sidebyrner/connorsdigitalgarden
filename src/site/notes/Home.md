@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-03-08T13:12:42.776-05:00","updated":"2025-03-20T15:58:01.756-04:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-03-08T13:12:42.776-05:00","updated":"2025-04-08T22:14:31.592-04:00"}
 ---
 
 # Connor's Digital Brain - a repository of learning and discovery
@@ -13,13 +13,16 @@ I write on topics, found in [[Synthesis\|Synthesis]] that delve deeper on topics
 
 ---
 # Topics
+[[CyberSecurity\|CyberSecurity]]
+[[000 Inbox/202503211617 - Artificial Intelligence - AI\|202503211617 - Artificial Intelligence - AI]]
 [[Programming\|Programming]]
 [[Podcasts\|Podcasts]]
 [[Business\|Business]]
 [[Leadership\|Leadership]]
 [[Library\|Library]]
 [[Synthesis\|Synthesis]]
-
+[[Geopolitics\|Geopolitics]]
+[[Banking\|Banking]]
 # Tags
 #Analysis | #articial_intelligence | #author | #banks | #business |
 

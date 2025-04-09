@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ngo/","created":"2025-03-21T15:58:07.292-04:00","updated":"2025-03-21T15:59:27.635-04:00"}
+{"dg-publish":true,"permalink":"/ngo/","created":"2025-03-21T15:58:07.000-04:00","updated":"2025-03-21T15:59:27.000-04:00"}
 ---
 
 ---

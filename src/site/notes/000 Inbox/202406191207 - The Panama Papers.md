@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/202406191207-the-panama-papers/","created":"2024-06-19T12:07:41.000-04:00","updated":"2025-03-09T21:59:23.000-04:00"}
+{"dg-publish":true,"permalink":"/000-inbox/202406191207-the-panama-papers/","created":"2024-06-19T12:07:41.000-04:00","updated":"2025-04-08T21:38:51.460-04:00"}
 ---
 
 
 ---
 ## In Brief
-The Panama Papers, a massive leak of 11.5 million documents from Panamanian law firm [[20250309 - Mossack Fonseca\|20250309 - Mossack Fonseca]], exposed how numerous high-profile individuals and entities used offshore structures to hide wealth, evade taxes, and launder money. The revelations implicated world leaders, celebrities, and business magnates, leading to global outrage, investigations, and the resignation of some officials. The scandal spurred reforms and highlighted the crucial role of investigative journalism in uncovering financial corruption and promoting transparency.
+The Panama Papers, a massive leak of 11.5 million documents from Panamanian law firm [[000 Inbox/202406191209 - Mossack Fonseca\|202406191209 - Mossack Fonseca]]], exposed how numerous high-profile individuals and entities used offshore structures to hide wealth, evade taxes, and launder money. The revelations implicated world leaders, celebrities, and business magnates, leading to global outrage, investigations, and the resignation of some officials. The scandal spurred reforms and highlighted the crucial role of investigative journalism in uncovering financial corruption and promoting transparency.
 
 ---
 

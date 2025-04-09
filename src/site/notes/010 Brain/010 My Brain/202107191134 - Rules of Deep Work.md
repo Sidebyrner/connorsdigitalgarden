@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107191134-rules-of-deep-work/","created":"2021-08-01T11:53:26.000-04:00","updated":"2025-03-21T15:52:55.392-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202107191134-rules-of-deep-work/","created":"2021-08-01T11:53:26.000-04:00","updated":"2025-03-21T15:52:55.000-04:00"}
 ---
 
 ---

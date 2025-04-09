@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108041039-refusal-to-comply/","created":"2021-08-04T10:39:19.000-04:00","updated":"2025-03-21T17:06:00.715-04:00"}
+{"dg-publish":true,"permalink":"/010-brain/010-my-brain/202108041039-refusal-to-comply/","created":"2021-08-04T10:39:19.000-04:00","updated":"2025-03-21T17:06:00.000-04:00"}
 ---
 
 ---
 
-## Refusal to comply (ref: [[010 Brain/010 My Brain/202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]])
+## Refusal to comply (ref: [[202108041015 - When is mutiny in order?\|202108041015 - When is mutiny in order?]])
 Here are some possible outcomes when the subordinate refuses to comply:
 1. The leader recognizes that the subordinate is extremely concerned about the plan - so concerned that they are putting their career at stake and ricking the possible punitive actions — because it is actually really bad. 
 2. The leader digs in even deeper and will not change the plan. Since the subordinate has refused to participate, the leader fires the subordinate and puts a new subordinate in place who has been hand-picked for unquestioning obedience. For the boss, the problem is solved, but the team will absolutely suffer now since the voice of reason has been replaced by one of the boss's [[010 Brain/010 My Brain/202108012048 - Yes Men\|202108012048 - Yes Men]].
